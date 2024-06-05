@@ -1,83 +1,60 @@
-from llama_index.llms.ollama import Ollama
-from llama_parse import LlamaParse
-from llama_index.core import VectorStoreIndex, SimpleDirectoryReader, PromptTemplate
-from llama_index.core.embeddings import resolve_embed_model
-from llama_index.core.tools import QueryEngineTool, ToolMetadata
-from llama_index.core.agent import ReActAgent
-from pydantic import BaseModel
-from llama_index.core.output_parsers import PydanticOutputParser
-from llama_index.core.query_pipeline import QueryPipeline
-from prompts import context, code_parser_template
-from code_reader import code_reader
-from dotenv import load_dotenv
-import os
-import ast
-
-load_dotenv()
-
-llm = Ollama(model="mistral", request_timeout=30.0)
-
-parser = LlamaParse(result_type="markdown")
-
-file_extractor = {".pdf": parser}
-documents = SimpleDirectoryReader("./data", file_extractor=file_extractor).load_data()
-
-embed_model = resolve_embed_model("local:BAAI/bge-m3")
-vector_index = VectorStoreIndex.from_documents(documents, embed_model=embed_model)
-query_engine = vector_index.as_query_engine(llm=llm)
-
-tools = [
-    QueryEngineTool(
-        query_engine=query_engine,
-        metadata=ToolMetadata(
-            name="api_documentation",
-            description="this gives documentation about code for an API. Use this for reading docs for the API",
-        ),
-    ),
-    code_reader,
-]
-
-code_llm = Ollama(model="codellama")
-agent = ReActAgent.from_tools(tools, llm=code_llm, verbose=True, context=context)
+import streamlit as st
+import pandas as pd
+from langchain_community.llms import Ollama
+from langchain_experimental.agents import create_csv_agent
 
 
-class CodeOutput(BaseModel):
-    code: str
-    description: str
-    filename: str
+def get_conversation_chain(llm, vectorstore):
+    pass
 
 
-parser = PydanticOutputParser(CodeOutput)
-json_prompt_str = parser.format(code_parser_template)
-json_prompt_tmpl = PromptTemplate(json_prompt_str)
-output_pipeline = QueryPipeline(chain=[json_prompt_tmpl, llm])
+def main1():
+    st.set_page_config(page_title="AI Agent Code Generator", page_icon=":robot:")
+    st.title("AI finance advisor agent")
+    # st.header("AI Agent Code Generator")
+    st.text_input("Enter your prompt")
+    # st.button("send prompt")
+    
+    # with st.expander("AI Agent Code Generator"):
+    #     st.write("AI Agent Code Generator")
 
-while (prompt := input("Enter a prompt (q to quit): ")) != "q":
-    retries = 0
+    with st.sidebar:
+        # st.subheader("AI Agent Code Generator")
+        # st.write("AI Agent Code Generator")
+        csv_docs =  st.file_uploader("Upload your csv file", accept_multiple_files=False, type=["csv"])
+        if st.button("Process CSV"):
+            with st.spinner("Processing..."):
+                raw_data = csv_docs[0].read()
+                st.write(raw_data)
+                # st.write("Processing...")
+                
+def main():
+    st.set_page_config(page_title="AI Agent Code Generator", page_icon=":robot:")
+    st.title("AI finance advisor agent")
+    
+    user_csv = st.file_uploader("Upload your csv file", type="csv")
+    
+    if user_csv is not None:
+        user_question = st.text_input("Enter a promt")
+        
+        llm = Ollama(
+            model="llama3",
+            base_url='http://192.168.1.65:11434'
+        )
+        agent = create_csv_agent(llm, user_csv, verbose=True, handle_parsing_errors=True)
+        
+        if user_question is not None and user_question != "":
+            st.write(f"User promt: {user_question}")
+            st.spinner("Processing...")
+            response = agent.run(user_question)
+            st.write(f"AI response: {response}")
+        
+        # with st.spinner("Processing..."):
+        # if user_question is not None:
+        #     st.spinner("Processing...")
+        #     response = agent.run(user_question)
+        #     st.write(response)
+    
 
-    while retries < 3:
-        try:
-            result = agent.query(prompt)
-            next_result = output_pipeline.run(response=result)
-            cleaned_json = ast.literal_eval(str(next_result).replace("assistant:", ""))
-            break
-        except Exception as e:
-            retries += 1
-            print(f"Error occured, retry #{retries}:", e)
-
-    if retries >= 3:
-        print("Unable to process request, try again...")
-        continue
-
-    print("Code generated")
-    print(cleaned_json["code"])
-    print("\n\nDesciption:", cleaned_json["description"])
-
-    filename = cleaned_json["filename"]
-
-    try:
-        with open(os.path.join("output", filename), "w") as f:
-            f.write(cleaned_json["code"])
-        print("Saved file", filename)
-    except:
-        print("Error saving file...")
+if __name__ == "__main__":
+    main()
