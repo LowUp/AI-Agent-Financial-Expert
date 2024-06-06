@@ -1,0 +1,363 @@
+Transaction ID,Date,Time,Type,Name,Emoji,Category,Amount,Currency,Local amount,Local currency,Notes and #tags,Address,Receipt,Description,Category split,Money Out,Money In
+tx_0000Adu2UjAiBwU7FBpzjm,16/01/2024,12:06:30,Faster payment,N Okorie,,Income,500.00,GBP,500.00,GBP,N Okorie,,,N Okorie,,,500.00
+tx_0000Adu2Yn1XoNloAuoXv0,16/01/2024,12:07:14,Faster payment,N Okorie,,Income,500.00,GBP,500.00,GBP,N Okorie,,,N Okorie,,,500.00
+tx_0000Adx2H3HVD9eLEVVFx3,17/01/2024,22:48:10,Card payment,National Express,🚌,Transport,-33.50,GBP,-33.50,GBP,,"National Express House, Birmingham Coach Station",,National Express Limit Birmingham    GBR,,-33.50,
+tx_0000Ae0TyUF67sLgXEHi0P,19/01/2024,14:42:41,Card payment,Government Legalisation Services,,General,-19.00,GBP,-19.00,GBP,,,,LTR FAMILY ON-LINE DCJ LIVERPOOL     GBR,,-19.00,
+tx_0000Ae0rBmlSs2X2TdG5q6,19/01/2024,19:02:49,Card payment,Sopra Steria Limited U,,Bills,-139.00,GBP,-139.00,GBP,,,,SOPRA STERIA LIMITED U HEMEL HEMPSTE GBR,,-139.00,
+tx_0000Ae2VVV4kXR591Gt6rh,20/01/2024,14:09:17,Card payment,Tesco,🍏 ,Groceries,-8.45,GBP,-8.45,GBP,,Church Langley Way,,TESCO STORES 2634      HARLOW 2      GBR,,-8.45,
+tx_0000Ae4PsKkyrIqwswhcI5,21/01/2024,12:15:36,Card payment,Arriva,🚌,Transport,-1.50,GBP,-1.50,GBP,,Armstrong Road,,ARRIVA KENT THAMESIDE  MAIDSTONE     GBR,,-1.50,
+tx_0000Ae4zcA2SXNRZ74MCzR,21/01/2024,18:56:04,Card payment,Go South Coast,🚍,Transport,-2.00,GBP,-2.00,GBP,,,,GO SOUTH COAST         POOLE         GBR,,-2.00,
+tx_0000Ae67QNjUn50P6AET7h,22/01/2024,07:58:17,Faster payment,E Omueti,,Income,1000.00,GBP,1000.00,GBP,school fees,,,school fees,,,1000.00
+tx_0000Ae6ocXU8eaQLoAICW1,22/01/2024,16:02:18,Card payment,National Express Bourn,🚌,Transport,-17.00,GBP,-17.00,GBP,,HOLDENHURST ROAD,,NATIONAL EXPRESS BOURN BOURNEMOUTH   GBR,,-17.00,
+tx_0000Ae6uXN3yZf8mOiZWK2,22/01/2024,17:08:36,Card payment,Lidl,🥖,Groceries,-5.61,GBP,-5.61,GBP,,,,LIDL GB BOURNEMOUTH    BOURNEMOUTH   GBR,,-5.61,
+tx_0000Ae8fil8aISoxxqoXQX,23/01/2024,13:32:00,Card payment,South Western Railway,🚅,Transport,-30.00,GBP,-30.00,GBP,,BOURNEMOUTH STATION,,SWRAILWAY TCK OFF      BOURNEMOUTH   GBR,,-30.00,
+tx_0000Ae9xMs6NiOr91OZbE1,24/01/2024,04:24:27,Card payment,Go South Coast,🚍,Transport,-5.80,GBP,-5.80,GBP,,,,GO SOUTH COAST         POOLE         GBR,,-5.80,
+tx_0000AeAG6LNbVQMEzKh8fh,24/01/2024,07:54:21,Card payment,National Express,🚌,Transport,-24.50,GBP,-24.50,GBP,,"National Express House, Birmingham Coach Station",,National Express Limit Birmingham    GBR,,-24.50,
+tx_0000AeBUBwVGVAWI5ann2g,24/01/2024,22:06:57,Card payment,Trainline,🚄,Transport,-47.19,GBP,-47.19,GBP,,Trainline,,Trainline.Com          London        GBR,,-47.19,
+tx_0000AeBVXJn3DV4mLbsTtx,24/01/2024,22:22:01,Card payment,Arriva,🚌,Transport,-1.50,GBP,-1.50,GBP,,Armstrong Road,,ARRIVA KENT THAMESIDE  MAIDSTONE     GBR,,-1.50,
+tx_0000AeBjcDse11errrUetH,25/01/2024,00:59:46,Card payment,ScotRail,🚅,Transport,-45.70,GBP,-45.70,GBP,,Trainline,,SCOTRAIL.CO.UK         London        GBR,,-45.70,
+tx_0000AeC1uRJKcP0DhYV7ej,25/01/2024,04:24:45,Card payment,Go South Coast,🚍,Transport,-5.90,GBP,-5.90,GBP,,,,GO SOUTH COAST         POOLE         GBR,,-5.90,
+tx_0000AeF8MVAT3OMXaWwbUv,26/01/2024,16:21:11,Card payment,Lebara,📱,Bills,-10.00,GBP,-10.00,GBP,,7th Floor Import Building 2 Clove Crescent,,Lebara Mobile Limited  London        GBR,,-10.00,
+tx_0000AeGM8omEwYbOFazoPp,27/01/2024,06:30:18,Card payment,Temu,🛍️,Shopping,-36.27,GBP,-36.27,GBP,,1 Bartholomew Lane,,Temu.com               LONDON        GBR,,-36.27,
+tx_0000AeGRrBhdZD2rSByF0t,27/01/2024,07:34:21,Card payment,Temu,🛍️,Shopping,-13.18,GBP,-13.18,GBP,,1 Bartholomew Lane,,Temu.com               LONDON        GBR,,-13.18,
+tx_0000AeGSEIF9PniT5jtOev,27/01/2024,07:38:31,Card payment,Temu,🛍️,Shopping,-24.87,GBP,-24.87,GBP,,1 Bartholomew Lane,,Temu.com               LONDON        GBR,,-24.87,
+tx_0000AeH4AaBwXSZzZpfc4h,27/01/2024,14:43:38,Card payment,Temu,🛍️,Shopping,2.80,GBP,2.80,GBP,,1 Bartholomew Lane,,Temu.com              \1 BARTHOLOMEW LANE\LONDON       \EC2N 2AX     GBR,,,2.80
+tx_0000AeH4AdHN3k0PAnmFoP,27/01/2024,14:43:39,Card payment,Temu,🛍️,Shopping,24.87,GBP,24.87,GBP,,1 Bartholomew Lane,,Temu.com              \1 BARTHOLOMEW LANE\LONDON       \EC2N 2AX     GBR,,,24.87
+tx_0000AeIYudZVUmmbN4q7er,28/01/2024,08:02:49,Card payment,National Express,🚌,Transport,-27.40,GBP,-27.40,GBP,,"National Express House, Birmingham Coach Station",,National Express Limit Birmingham    GBR,,-27.40,
+tx_0000AeIvTR4IAmiSlJOJTV,28/01/2024,12:15:37,Card payment,Arriva,🚌,Transport,-1.50,GBP,-1.50,GBP,,Armstrong Road,,ARRIVA KENT THAMESIDE  MAIDSTONE     GBR,,-1.50,
+tx_0000AeJZphiUx2A7EVQDyc,28/01/2024,19:47:51,Faster payment,Richard Chijindu Onyemata,,General,-230.00,GBP,-230.00,GBP,Sent from Monzo,,,Sent from Monzo,,-230.00,
+tx_0000AeKVAhmfahS6wsA8ll,29/01/2024,06:30:20,Card payment,Go South Coast,🚍,Transport,-2.00,GBP,-2.00,GBP,,,,GO SOUTH COAST         POOLE         GBR,,-2.00,
+tx_0000AeKVAiVgtJStCVE5wX,29/01/2024,06:30:20,Card payment,Go South Coast,🚍,Transport,-2.00,GBP,-2.00,GBP,,,,GO SOUTH COAST         POOLE         GBR,,-2.00,
+tx_0000AeLetBA2p36eyISy9a,29/01/2024,19:53:55,Card payment,Co-op,🍏,Groceries,-1.65,GBP,-1.65,GBP,,2 Columbia Road,,CO-OP GROUP FOOD       BOURNEMOUTH   GBR,,-1.65,
+tx_0000AeM9SxuqXgIpmLXfUH,30/01/2024,01:36:32,Card payment,Trainline,🚄,Transport,7.00,GBP,7.00,GBP,,Trainline,,TRAINLINE\TRAINLINE\LONDON\EC1N 2TD     GBR,,,7.00
+tx_0000AeN7x5IRezj1TWOIM5,30/01/2024,12:54:17,Card payment,Osas Afro Carribbean S,🍎,Groceries,-24.96,GBP,-24.96,GBP,,512 Christchurch Road,,OSAS AFRO CARRIBBEAN S BOURNEMOUTH   GBR,,-24.96,
+tx_0000AeOT2dJetcFrlAmy0H,31/01/2024,04:25:18,Card payment,Go South Coast,🚍,Transport,-3.40,GBP,-3.40,GBP,,,,GO SOUTH COAST         POOLE         GBR,,-3.40,
+tx_0000AePe2rZvA8XiPQaGWY,31/01/2024,18:03:19,Card payment,Lidl,🥖,Groceries,-11.67,GBP,-11.67,GBP,,376-378 Wimborne Road,,LIDL GB BOURNEMOUTH    BOURNEMOUTH   GBR,,-11.67,
+tx_0000AePfLLrrNyoyfUJB6v,31/01/2024,18:17:52,Card payment,Makkah Foods - Winton,🍎,Groceries,-8.47,GBP,-8.47,GBP,,377 Wimborne Road,,Makkah Foods - Winton  Bournemouth   GBR,,-8.47,
+tx_0000AeSuZGQmTgNt9VgPr7,02/02/2024,07:52:35,Card payment,ScotRail,🚅,Transport,-8.90,GBP,-8.90,GBP,,"Trainline, Holborn",,Scotrail               London        GBR,,-8.90,
+tx_0000AeTe02cARzkGhYTVFB,02/02/2024,16:21:39,Card payment,ScotRail,🚅,Transport,-8.90,GBP,-8.90,GBP,,"Trainline, Holborn",,Scotrail               London        GBR,,-8.90,
+tx_0000AeTmUgPjqBan2sd3ic,02/02/2024,17:56:49,Faster payment,OBIDINAN D K,,Income,100.00,GBP,100.00,GBP,Joy Obidinanwa,,,Joy Obidinanwa,,,100.00
+tx_0000AeTmlxSbiSxhuxMPtB,02/02/2024,17:59:57,Card payment,ATM,💵,Finances,-100.00,GBP,-100.00,GBP,,11 Bourne Avenue,,HFX  WINTON              BOURNEMOUTH GBR,,-100.00,
+tx_0000AeU5yrh6MecCva0ZUH,02/02/2024,21:35:10,Faster payment,Darlington Chidera Nwachukwu,,Income,2.44,GBP,2.44,GBP,Sent from Revolut,,,Sent from Revolut,,,2.44
+tx_0000AeUghnXIGfgECTQU2E,03/02/2024,04:26:41,Card payment,Go South Coast,🚍,Transport,-7.10,GBP,-7.10,GBP,,,,GO SOUTH COAST         POOLE         GBR,,-7.10,
+tx_0000AeVzx9IliamGnJxWLp,03/02/2024,19:37:04,Card payment,Osas Afro Carribbean S,🍎,Groceries,-3.99,GBP,-3.99,GBP,,512 Christchurch Road,,OSAS AFRO CARRIBBEAN S BOURNEMOUTH   GBR,,-3.99,
+tx_0000AeW4RxxCMJiHitBCWv,03/02/2024,20:27:27,Card payment,Premier Inn,🏨,Holidays,-13.29,GBP,-13.29,GBP,,Poole Road,,PREMIER INN 44524125   BOURNEMOUTH W GBR,,-13.29,
+tx_0000AeWkXfTw998I3HLJXm,04/02/2024,04:19:05,Card payment,Go South Coast,🚍,Transport,-2.00,GBP,-2.00,GBP,,,,GO SOUTH COAST         POOLE         GBR,,-2.00,
+tx_0000AeXaKGN9O1krQDG5J3,04/02/2024,13:59:19,Faster payment,OLUFUNMILAYO GRACE AJIBOYEDE,,Income,300.00,GBP,300.00,GBP,Sent from Revolut,,,Sent from Revolut,,,300.00
+tx_0000AeYoPea0PA0DTZORtp,05/02/2024,04:11:53,Card payment,Go South Coast,🚍,Transport,-3.40,GBP,-3.40,GBP,,,,GO SOUTH COAST         POOLE         GBR,,-3.40,
+tx_0000AeaF8hwNY1kmtfxixm,05/02/2024,20:46:04,Faster payment,Obidinanwa Joy Ujunwa,,General,-50.00,GBP,-50.00,GBP,Sent from Monzo,,,Sent from Monzo,,-50.00,
+tx_0000Aeau2SDJCgIZPASUD3,06/02/2024,04:24:21,Card payment,Go South Coast,🚍,Transport,-3.40,GBP,-3.40,GBP,,,,GO SOUTH COAST         POOLE         GBR,,-3.40,
+tx_0000Aeb2vPhB4Ds39g9Aiz,06/02/2024,06:03:55,Faster payment,Obidinanwa Joy Ujunwa,,Bills,-250.00,GBP,-250.00,GBP,Sent from Monzo,,,Sent from Monzo,,-250.00,
+tx_0000AeeSru9j3Qk3N9mVIv,07/02/2024,21:38:45,Faster payment,Darlington Chidera Nwachukwu,,Income,6.50,GBP,6.50,GBP,Sent from Revolut,,,Sent from Revolut,,,6.50
+tx_0000Aef3EYW3H2mHiFWS3d,08/02/2024,04:26:13,Card payment,Go South Coast,🚍,Transport,-3.40,GBP,-3.40,GBP,,,,GO SOUTH COAST         POOLE         GBR,,-3.40,
+tx_0000Aeh7mC3M5K1Gpy9K8g,09/02/2024,04:26:33,Card payment,Go South Coast,🚍,Transport,-6.80,GBP,-6.80,GBP,,,,GO SOUTH COAST         POOLE         GBR,,-6.80,
+tx_0000AeiHABwNFSeYT2Nr3h,09/02/2024,17:46:26,Card payment,Sumup Tj S Fish And,🍴,Eating out,-2.90,GBP,-2.90,GBP,,254 Sandbanks Road,,SumUp  *TJ s Fish and  Poole         GBR,,-2.90,
+tx_0000AeiSIvOnDaFdGa2kSH,09/02/2024,19:51:16,Card payment,Makkah Foods - Winton,🍎,Groceries,-18.61,GBP,-18.61,GBP,,377 Wimborne Road,,Makkah Foods - Winton  Bournemouth   GBR,,-18.61,
+tx_0000AelG2zss9trR8GTTsX,11/02/2024,04:18:04,Card payment,Go South Coast,🚍,Transport,-3.40,GBP,-3.40,GBP,,,,GO SOUTH COAST         POOLE         GBR,,-3.40,
+tx_0000Aeo3wuJrJrOdBcsCNl,12/02/2024,12:46:38,Faster payment,Darlington Chidera Nwachukwu,,Income,7.00,GBP,7.00,GBP,Sent from Revolut,,,Sent from Revolut,,,7.00
+tx_0000AeorA4g11AkK0sDmkb,12/02/2024,21:58:04,Card payment,King Rooster Peri Peri,🍴,Eating out,-4.99,GBP,-4.99,GBP,,250 Old Christchurch Road,,King Rooster Peri Peri Bournemouth   GBR,,-4.99,
+tx_0000AeqiNoH2I1KjxRuBX7,13/02/2024,19:29:07,Card payment,Yaawin Global Spicy Supermarket,🍷,Groceries,-17.33,GBP,-17.33,GBP,,Christchurch Road,,YAAWIN GLOBAL SPICY SU BOURNEMOUTH   GBR,,-17.33,
+tx_0000AerzIgyZt5K3dSv4XR,14/02/2024,10:13:24,Faster payment,Chiderah Onwumelu,,Bills,-50.00,GBP,-50.00,GBP,Sent from Monzo,,,Sent from Monzo,,-50.00,
+tx_0000Aevd3ZEYyBZDsVrGhF,16/02/2024,04:23:00,Card payment,Go South Coast,🚍,Transport,-3.40,GBP,-3.40,GBP,,,,GO SOUTH COAST         POOLE         GBR,,-3.40,
+tx_0000AexFhEooHdfoFxRsg6,16/02/2024,23:10:40,Card payment,Nexus Bournemouth,🍸,Entertainment,-4.95,GBP,-4.95,GBP,,161 Old Christchurch Road,,NEXUS BOURNEMOUTH      Bournemouth   GBR,,-4.95,
+tx_0000AexFxO53cCwM32fZ21,16/02/2024,23:13:35,Card payment,Nexus Bournemouth,🍸,Entertainment,-5.85,GBP,-5.85,GBP,,161 Old Christchurch Road,,NEXUS BOURNEMOUTH      Bournemouth   GBR,,-5.85,
+tx_0000AexR2PsRSi9Y8BRscV,17/02/2024,01:17:45,Card payment,Munchies 01,🍴,Eating out,-7.50,GBP,-7.50,GBP,,234 Old Christchurch Road,,MUNCHIES 01            BOURNEMOUTH   GBR,,-7.50,
+tx_0000Aext0nEmR4bAkMrG3G,17/02/2024,06:31:12,Faster payment,Darlington Chidera Nwachukwu,,Expenses,-5.00,GBP,-5.00,GBP,Sent from Monzo,,,Sent from Monzo,,-5.00,
+tx_0000AezDUpaoR384x8mGfs,17/02/2024,21:55:26,Card payment,Yaawin Global Spicy Supermarket,🍷,Groceries,-2.74,GBP,-2.74,GBP,,Christchurch Road,,YAAWIN GLOBAL SPICY SU BOURNEMOUTH   GBR,,-2.74,
+tx_0000Aezld8X1ImNMRt8Sun,18/02/2024,04:17:55,Card payment,Go South Coast,🚍,Transport,-5.40,GBP,-5.40,GBP,,,,GO SOUTH COAST         POOLE         GBR,,-5.40,
+tx_0000Af0KdlBH6MT6iGzslm,18/02/2024,10:50:12,Faster payment,Deeper Christian Life Ministry,,Gifts,-5.00,GBP,-5.00,GBP,Sent from Monzo,,,Sent from Monzo,,-5.00,
+tx_0000Af1pdkMFS98ttiYzZ3,19/02/2024,04:12:16,Card payment,Go South Coast,🚍,Transport,-5.40,GBP,-5.40,GBP,,,,GO SOUTH COAST         POOLE         GBR,,-5.40,
+tx_0000Af3v7SXl8ggRu6XrbV,20/02/2024,04:23:05,Card payment,Go South Coast,🚍,Transport,-5.40,GBP,-5.40,GBP,,,,GO SOUTH COAST         POOLE         GBR,,-5.40,
+tx_0000Af4LSUTFlYQv41EJYP,20/02/2024,09:18:13,Faster payment,Darlington Chidera Nwachukwu,,Family,-95.00,GBP,-95.00,GBP,Sent from Monzo,,,Sent from Monzo,,-95.00,
+tx_0000Af7J2O7D9jwOsopLaj,21/02/2024,19:35:13,Faster payment,Darlington Chidera Nwachukwu,,Bills,-40.00,GBP,-40.00,GBP,Sent from Monzo,,,Sent from Monzo,,-40.00,
+tx_0000AfAMK3gGkjnKQj5Ryb,23/02/2024,06:56:10,Card payment,Go South Coast,🚍,Transport,-8.00,GBP,-8.00,GBP,,,,GO SOUTH COAST         POOLE         GBR,,-8.00,
+tx_0000AfAMK45RF9vZgmrYCv,23/02/2024,06:56:10,Card payment,Go South Coast,🚍,Transport,-3.40,GBP,-3.40,GBP,,,,GO SOUTH COAST         POOLE         GBR,,-3.40,
+tx_0000AfBaFgtD8nvJd5gknC,23/02/2024,21:06:57,Card payment,Winton Supermarket,🍎,Groceries,-1.80,GBP,-1.80,GBP,,693 Wimborne Road,,Winton Supermarket     Bournemouth   GBR,,-1.80,
+tx_0000AfBfDxzn4Molydso55,23/02/2024,22:02:40,Faster payment,Chiderah Onwumelu,,Income,50.00,GBP,50.00,GBP,Sent from Revolut,,,Sent from Revolut,,,50.00
+tx_0000AfCZctJNDWbT5424m3,24/02/2024,08:34:39,Card payment,Lebara,📱,Bills,-10.00,GBP,-10.00,GBP,,7th Floor Import Building 2 Clove Crescent,,Lebara Mobile Limited  London        GBR,,-10.00,
+tx_0000AfDVsWAqnticKyfpyr,24/02/2024,19:27:22,Card payment,Yaawin Global Spicy Supermarket,🍷,Groceries,-2.99,GBP,-2.99,GBP,,Christchurch Road,,YAAWIN GLOBAL SPICY SU BOURNEMOUTH   GBR,,-2.99,
+tx_0000AfDWAXvb1ODcGqriVt,24/02/2024,19:30:38,Card payment,Yaawin Global Spicy Supermarket,🍷,Groceries,-6.00,GBP,-6.00,GBP,,Christchurch Road,,YAAWIN GLOBAL SPICY SU BOURNEMOUTH   GBR,,-6.00,
+tx_0000AfEHFYgwJ0eNbshRII,25/02/2024,04:18:10,Card payment,Go South Coast,🚍,Transport,-2.00,GBP,-2.00,GBP,,,,GO SOUTH COAST         POOLE         GBR,,-2.00,
+tx_0000AfGLDlQKmiUILPotLm,26/02/2024,04:12:05,Card payment,Go South Coast,🚍,Transport,-3.40,GBP,-3.40,GBP,,,,GO SOUTH COAST         POOLE         GBR,,-3.40,
+tx_0000AfIQoEOBSSPEbQi3YP,27/02/2024,04:24:08,Card payment,Go South Coast,🚍,Transport,-5.40,GBP,-5.40,GBP,,,,GO SOUTH COAST         POOLE         GBR,,-5.40,
+tx_0000AfJTmMXEh77i5v4TcB,27/02/2024,16:32:07,Faster payment,Richard Chijindu Onyemata,,Finances,-50.00,GBP,-50.00,GBP,Sent from Monzo,,,Sent from Monzo,,-50.00,
+tx_0000AfKVRt4auxPucPTeWv,28/02/2024,04:25:32,Card payment,Go South Coast,🚍,Transport,-7.40,GBP,-7.40,GBP,,,,GO SOUTH COAST         POOLE         GBR,,-7.40,
+tx_0000AfKy3sa3zhMorArMmn,28/02/2024,09:46:09,Card payment,Skills For Jobs Ltd,🏫,Bills,-300.00,GBP,-300.00,GBP,,"Office 2, Unit 1 35-37 Withermoor RoadWinton",,SKILLS FOR JOBS LTD    +441202287646 GBR,,-300.00,
+tx_0000AfL4IdNPP899lqMLgH,28/02/2024,10:56:02,Card payment,Skills For Jobs Ltd,🏫,Bills,300.00,GBP,300.00,GBP,,"Office 2, Unit 1 35-37 Withermoor RoadWinton",,SKILLS FOR JOBS LTD    +441202287646 GBR,,,300.00
+tx_0000AfOcF9gPKO49iREThZ,01/03/2024,04:00:31,Card payment,Go South Coast,🚍,Transport,-2.00,GBP,-2.00,GBP,,,,GO SOUTH COAST         POOLE         GBR,,-2.00,
+tx_0000AfP020g3tfEErOlCvS,01/03/2024,08:27:03,Faster payment,Richard Chijindu Onyemata,,Income,110.00,GBP,110.00,GBP,Sent from Revolut,,,Sent from Revolut,,,110.00
+tx_0000AfQj87kBE85BcH64u5,02/03/2024,04:27:06,Card payment,Go South Coast,🚍,Transport,-3.40,GBP,-3.40,GBP,,,,GO SOUTH COAST         POOLE         GBR,,-3.40,
+tx_0000AfRe1fx1LHrBgaxpBZ,02/03/2024,15:04:37,Card payment,Yaawin Global Spicy Supermarket,🍷,Groceries,-26.74,GBP,-26.74,GBP,,Christchurch Road,,YAAWIN GLOBAL SPICY SU BOURNEMOUTH   GBR,,-26.74,
+tx_0000AfReBBqi7AVcs78f3p,02/03/2024,15:06:21,Card payment,Yaawin Global Spicy Supermarket,🍷,Groceries,-1.99,GBP,-1.99,GBP,,Christchurch Road,,YAAWIN GLOBAL SPICY SU BOURNEMOUTH   GBR,,-1.99,
+tx_0000AfRmvn1t0kD5UPVYiw,02/03/2024,16:44:24,Card payment,Primark,👕,Shopping,-7.00,GBP,-7.00,GBP,,54 Commercial Road,,PRIMARK - 658          BOURNEMOUTH   GBR,,-7.00,
+tx_0000AfRzMLGxW8iH3vUfOD,02/03/2024,19:03:40,Faster payment,Mariia sarnavska,,General,-20.00,GBP,-20.00,GBP,Mariia sarnavska,,,Mariia sarnavska,,-20.00,
+tx_0000AfSmr3Kz925X9zLbuM,03/03/2024,04:18:16,Card payment,Go South Coast,🚍,Transport,-3.40,GBP,-3.40,GBP,,,,GO SOUTH COAST         POOLE         GBR,,-3.40,
+tx_0000AfUF8BJZjLgyKEA0jC,03/03/2024,21:09:48,Card payment,Smile Grill,🍴,Eating out,-4.00,GBP,-4.00,GBP,,121 Charminster Road,,SMILE GRILL            BOURNEMOUTH   GBR,,-4.00,
+tx_0000AfUIqCF3waO4B8AlpR,03/03/2024,21:51:23,Card payment,Spar,🍏,Groceries,-2.68,GBP,-2.68,GBP,,391-393 Wimborne Road,,SPAR                   BOURNEMOUTH   GBR,,-2.68,
+tx_0000AfUqqAzjyfoSkhATSb,04/03/2024,04:12:21,Card payment,Go South Coast,🚍,Transport,-3.40,GBP,-3.40,GBP,,,,GO SOUTH COAST         POOLE         GBR,,-3.40,
+tx_0000AfW8gzs7xHmwIyrM5T,04/03/2024,19:07:05,Card payment,Makkah Foods - Winton,🍎,Groceries,-9.97,GBP,-9.97,GBP,,377 Wimborne Road,,Makkah Foods - Winton  Bournemouth   GBR,,-9.97,
+tx_0000AfWLCVcLAwWC4pii4A,04/03/2024,21:27:14,Faster payment,N Okorie,,Income,150.00,GBP,150.00,GBP,N Okorie,,,N Okorie,,,150.00
+tx_0000AfWwVvTSxexFlRcfUv,05/03/2024,04:25:19,Card payment,Go South Coast,🚍,Transport,-3.40,GBP,-3.40,GBP,,,,GO SOUTH COAST         POOLE         GBR,,-3.40,
+tx_0000AfXAcwi8A39A78A3qF,05/03/2024,07:03:28,Faster payment,C Nwachukwu,,Income,136.00,GBP,136.00,GBP,Loan,,,Loan,,,136.00
+tx_0000AfXShXAiL8qz7xpNLN,05/03/2024,10:25:59,Faster payment,Richard Chijindu Onyemata,,Transfers,-50.00,GBP,-50.00,GBP,Sent from Monzo,,,Sent from Monzo,,-50.00,
+tx_0000AfbS3EKjjqkCsGeVlZ,07/03/2024,08:37:33,Faster payment,C Nwachukwu,,Income,34.00,GBP,34.00,GBP,Loan,,,Loan,,,34.00
+tx_0000AfdAF5GPsKByO4knKM,08/03/2024,04:27:26,Card payment,Go South Coast,🚍,Transport,-3.40,GBP,-3.40,GBP,,,,GO SOUTH COAST         POOLE         GBR,,-3.40,
+tx_0000AffEkWngKj8UYfYKWo,09/03/2024,04:27:21,Card payment,Go South Coast,🚍,Transport,-2.00,GBP,-2.00,GBP,,,,GO SOUTH COAST         POOLE         GBR,,-2.00,
+tx_0000AfgLXiVeNhubp79tjx,09/03/2024,17:18:11,Card payment,ATM,💵,Finances,-20.00,GBP,-20.00,GBP,,48 Blue Boar Row,,LOYD 38 BLUE BOAR ROW    SALISBURY   GBR,,-20.00,
+tx_0000AfhpWNu0hiW06jYdcn,10/03/2024,10:28:48,Card payment,Unibus,🚌,Transport,0.00,GBP,0.00,GBP,Active card check,41-51 Grey Street (3rd Floor)Newcastle Upon T,,UNIBUS                 +441202338420 GBR,,0.00,
+tx_0000AfhpYStR7T1K4L1tBp,10/03/2024,10:29:11,Card payment,Google,💻,General,0.00,GBP,0.00,NGN,Active card check,,,GOOGLE *ANDROID TEMP   g.co/helppay# USA,,0.00,
+tx_0000AfhpaD9ob03tPoHCCo,10/03/2024,10:29:30,Card payment,Unibus,🚌,Transport,-285.00,GBP,-285.00,GBP,,41-51 Grey Street (3rd Floor)Newcastle Upon T,,UNIBUS                 +441202338420 GBR,,-285.00,
+tx_0000Afi3jqCiBmqFvhSKLj,10/03/2024,13:08:07,Card payment,S Chapman  Son,,General,-14.50,GBP,-14.50,GBP,,Partridge Mead 52,,Zettle_*S Chapman  Son Banstead      GBR,,-14.50,
+tx_0000AfipHqrqvLqCEM51Qw,10/03/2024,22:00:54,Card payment,No Oil On The Canvas L,🍸,Entertainment,-6.00,GBP,-6.00,GBP,,45 Poole Hill,,NO OIL ON THE CANVAS L Bournemouth   GBR,,-6.00,
+tx_0000AfkapEFNuW6Up1gCav,11/03/2024,18:28:16,Card payment,Yaawin Global Spicy Supermarket,🍷,Groceries,-6.79,GBP,-6.79,GBP,,Christchurch Road,,YAAWIN GLOBAL SPICY SU BOURNEMOUTH   GBR,,-6.79,
+tx_0000AfkrXQlyIfwj55BSGQ,11/03/2024,21:35:33,Card payment,Yaawin Global Spicy Supermarket,🍷,Groceries,-31.65,GBP,-31.65,GBP,,Christchurch Road,,YAAWIN GLOBAL SPICY SU BOURNEMOUTH   GBR,,-31.65,
+tx_0000Afm8lr3XGl4mL9VC3V,12/03/2024,12:23:21,Card payment,ScotRail,🚅,Transport,-7.25,GBP,-7.25,GBP,,"Trainline, Holborn",,Scotrail               London        GBR,,-7.25,
+tx_0000AfmC3qFtHhigsgTU8X,12/03/2024,13:00:12,Faster payment,Inaboya Uduzen,,Income,7.25,GBP,7.25,GBP,Sent from Monzo,,,Sent from Monzo,,,7.25
+tx_0000Afme5LJU5vWKPGrARN,12/03/2024,18:14:13,Card payment,West Country Vending,🍏,Groceries,-1.10,GBP,-1.10,GBP,,218A022 - Amazon Swi,,NYA*West Country Vendi Aberystwyth   GBR,,-1.10,
+tx_0000AfmpOCqCuwUw8eh2UF,12/03/2024,20:20:53,Faster payment,Richard Chijindu Onyemata,,General,-50.00,GBP,-50.00,GBP,Sent from Monzo,,,Sent from Monzo,,-50.00,
+tx_0000Afo47h7cm14DnZnOmw,13/03/2024,10:40:41,Card payment,Makkah Foods - Winton,🍎,Groceries,-4.19,GBP,-4.19,GBP,,377 Wimborne Road,,Makkah Foods - Winton  Bournemouth   GBR,,-4.19,
+tx_0000Afo54OkQjOhAtwdimf,13/03/2024,10:51:18,Card payment,Lidl,🥖,Groceries,-7.52,GBP,-7.52,GBP,,376-378 Wimborne Road,,LIDL GB BOURNEMOUTH    BOURNEMOUTH   GBR,,-7.52,
+tx_0000AfrEEPZU0Tgq53MMFe,14/03/2024,23:18:05,Faster payment,Richard Onyemata,,Personal care,-20.00,GBP,-20.00,GBP,Sent from Monzo,,,Sent from Monzo,,-20.00,
+tx_0000AftFmZUE8Y9nhPWp5F,15/03/2024,22:44:53,Card payment,SumUp,🚖,General,-10.20,GBP,-10.20,GBP,,16-20 Short's Gardens,,SumUp *SumUp Payments  London        GBR,,-10.20,
+tx_0000Ag1UuS7QT19VVWFo1J,19/03/2024,22:12:05,Card payment,ScotRail,🚅,Transport,-8.20,GBP,-8.20,GBP,,"Trainline, Holborn",,Scotrail               London        GBR,,-8.20,
+tx_0000Ag1UuvhaTef6AmS3Cj,19/03/2024,22:12:10,Faster payment,Inaboya Uduzen,,Income,8.20,GBP,8.20,GBP,Sent from Monzo,,,Sent from Monzo,,,8.20
+tx_0000Ag6y65J4ya2XwHM1hp,22/03/2024,13:32:41,Card payment,West Country Vending,🍏,Groceries,-1.10,GBP,-1.10,GBP,,218A022 - Amazon Swi,,NYA*West Country Vendi Aberystwyth   GBR,,-1.10,
+tx_0000Ag8UoyvWvzte2ixNlT,23/03/2024,07:14:04,Faster payment,Walter Esenabhalu,,Transfers,-450.00,GBP,-450.00,GBP,Sent from Monzo,,,Sent from Monzo,,-450.00,
+tx_0000AgB8TVzPiEuuSviJGb,24/03/2024,13:47:49,Card payment,West Country Vending,🍏,Groceries,-1.10,GBP,-1.10,GBP,,218A022 - Amazon Swi,,NYA*West Country Vendi Aberystwyth   GBR,,-1.10,
+tx_0000AgBYunSzRHJVISDXLF,24/03/2024,18:44:04,Card payment,Go South Coast,🚍,Transport,-6.00,GBP,-6.00,GBP,,,,GO SOUTH COAST         POOLE         GBR,,-6.00,
+tx_0000AgBhJBNYz418PRXLqE,24/03/2024,20:18:07,Card payment,Yaawin Global Spicy Supermarket,🍷,Groceries,-15.98,GBP,-15.98,GBP,,Christchurch Road,,YAAWIN GLOBAL SPICY SU BOURNEMOUTH   GBR,,-15.98,
+tx_0000AgCktbGkhDd1Ljm4tn,25/03/2024,08:33:02,Card payment,Lebara,📱,Bills,-10.00,GBP,-10.00,GBP,,7th Floor Import Building 2 Clove Crescent,,Lebara Mobile Limited  London        GBR,,-10.00,
+tx_0000AgDXIZVXB71E6HQtZh,25/03/2024,17:35:23,Faster payment,NO OI ON T C LTD,,Income,226.00,GBP,226.00,GBP,CANVAS,,,CANVAS,,,226.00
+tx_0000AgDoxhoIucbV8Suy3P,25/03/2024,20:53:18,Faster payment,Obidinanwa Joy Ujunwa,,General,-15.00,GBP,-15.00,GBP,Sent from Monzo,,,Sent from Monzo,,-15.00,
+tx_0000AgET9UVYBzreV9uRsH,26/03/2024,04:23:38,Card payment,Go South Coast,🚍,Transport,-2.00,GBP,-2.00,GBP,,,,GO SOUTH COAST         POOLE         GBR,,-2.00,
+tx_0000AgEhwTlx78wQNkjZch,26/03/2024,07:09:21,Faster payment,Richard Onyemata,,General,-50.00,GBP,-50.00,GBP,Sent from Monzo,,,Sent from Monzo,,-50.00,
+tx_0000AgEi4ALXDwKrpu8xf7,26/03/2024,07:10:45,Faster payment,Darlington Chidera Nwachukwu,,Transfers,-100.00,GBP,-100.00,GBP,Sent from Monzo,,,Sent from Monzo,,-100.00,
+tx_0000AgEiCp09x8CZyBHgrR,26/03/2024,07:12:18,Faster payment,Walter Esenabhalu,,Savings,-100.00,GBP,-100.00,GBP,Sent from Monzo,,,Sent from Monzo,,-100.00,
+tx_0000AgFyIH8iYYuaGEieiv,26/03/2024,21:47:17,Card payment,Temu,🛍️,Shopping,-22.26,GBP,-22.26,GBP,,1 Bartholomew Lane,,Temu.com               LONDON        GBR,,-22.26,
+tx_0000AgFyVEmWdOdKORQRkH,26/03/2024,21:49:38,Card payment,Temu,🛍️,Shopping,-1.48,GBP,-1.48,GBP,,1 Bartholomew Lane,,Temu.com               LONDON        GBR,,-1.48,
+tx_0000AgFylv674YPlbVHfUJ,26/03/2024,21:52:39,Card payment,Temu,🛍️,Shopping,-2.99,GBP,-2.99,GBP,,1 Bartholomew Lane,,Temu.com               LONDON        GBR,,-2.99,
+tx_0000AgFyxVJ2n3u04RCzgH,26/03/2024,21:54:44,Card payment,Temu,🛍️,Shopping,-1.99,GBP,-1.99,GBP,,1 Bartholomew Lane,,Temu.com               LONDON        GBR,,-1.99,
+tx_0000AgG00Vf21nAzlsBnqz,26/03/2024,22:06:29,Card payment,Temu,🛍️,Shopping,-8.09,GBP,-8.09,GBP,,1 Bartholomew Lane,,Temu.com               LONDON        GBR,,-8.09,
+tx_0000AgG0ZBNfQ9UOoNu8xf,26/03/2024,22:12:45,Card payment,Temu,🛍️,Shopping,-1.99,GBP,-1.99,GBP,,1 Bartholomew Lane,,Temu.com               LONDON        GBR,,-1.99,
+tx_0000AgG1XexQaGd84owmf4,26/03/2024,22:23:41,Card payment,Temu,🛍️,Shopping,-5.21,GBP,-5.21,GBP,,1 Bartholomew Lane,,Temu.com               LONDON        GBR,,-5.21,
+tx_0000AgG2jilULyuTLutavx,26/03/2024,22:37:04,Card payment,Temu,🛍️,Shopping,-4.39,GBP,-4.39,GBP,,1 Bartholomew Lane,,Temu.com               LONDON        GBR,,-4.39,
+tx_0000AgG681xivhVml2Dbfg,26/03/2024,23:15:05,Card payment,Temu,🛍️,Shopping,-3.23,GBP,-3.23,GBP,,1 Bartholomew Lane,,Temu.com               LONDON        GBR,,-3.23,
+tx_0000AgG8Hz2Uqt5ugOxLyz,26/03/2024,23:39:17,Card payment,Temu,🛍️,Shopping,-6.39,GBP,-6.39,GBP,,1 Bartholomew Lane,,Temu.com               LONDON        GBR,,-6.39,
+tx_0000AgG8QG8bAFiBqJ7nrl,26/03/2024,23:40:47,Card payment,Temu,🛍️,Shopping,-8.31,GBP,-8.31,GBP,,1 Bartholomew Lane,,Temu.com               LONDON        GBR,,-8.31,
+tx_0000AgG8UOw4ObTSTRs5ru,26/03/2024,23:41:32,Card payment,Temu,🛍️,Shopping,-6.11,GBP,-6.11,GBP,,1 Bartholomew Lane,,Temu.com               LONDON        GBR,,-6.11,
+tx_0000AgG8XMmAsit8e2emzR,26/03/2024,23:42:04,Card payment,Temu,🛍️,Shopping,-0.88,GBP,-0.88,GBP,,1 Bartholomew Lane,,Temu.com               LONDON        GBR,,-0.88,
+tx_0000AgG9A5HLrxrhfjhZn1,26/03/2024,23:49:04,Card payment,Temu,🛍️,Shopping,-2.59,GBP,-2.59,GBP,,1 Bartholomew Lane,,Temu.com               LONDON        GBR,,-2.59,
+tx_0000AgGV4fXkKAT27X1k4h,27/03/2024,03:54:36,Card payment,Temu,🛍️,Shopping,20.17,GBP,20.17,GBP,,1 Bartholomew Lane,,Temu.com              \1 BARTHOLOMEW LANE\LONDON       \EC2N 2AX     GBR,,,20.17
+tx_0000AgGV4rXphffPLH9ysN,27/03/2024,03:54:38,Card payment,Temu,🛍️,Shopping,1.48,GBP,1.48,GBP,,1 Bartholomew Lane,,Temu.com              \1 BARTHOLOMEW LANE\LONDON       \EC2N 2AX     GBR,,,1.48
+tx_0000AgHoHLXK73RTekkxrF,27/03/2024,19:04:29,Faster payment,Josiah Kayode,,Income,2.00,GBP,2.00,GBP,JOSIAH KAYODE,,,JOSIAH KAYODE,,,2.00
+tx_0000AgIcIHJ0KAXfDC9uMr,28/03/2024,04:24:55,Card payment,Go South Coast,🚍,Transport,-2.00,GBP,-2.00,GBP,,,,GO SOUTH COAST         POOLE         GBR,,-2.00,
+tx_0000AgIzeSI6SWjQiOKw77,28/03/2024,08:46:38,Card payment,Temu,🛍️,Shopping,-38.33,GBP,-38.33,GBP,,1 Bartholomew Lane,,Temu.com               LONDON        GBR,,-38.33,
+tx_0000AgIzqhACzM2591wDcv,28/03/2024,08:48:51,Card payment,Temu,🛍️,Shopping,-3.37,GBP,-3.37,GBP,,1 Bartholomew Lane,,Temu.com               LONDON        GBR,,-3.37,
+tx_0000AgJLRoUmn1UKHGmIkr,28/03/2024,12:50:52,Card payment,Temu,🛍️,Shopping,1.99,GBP,1.99,GBP,,1 Bartholomew Lane,,Temu.com              \1 BARTHOLOMEW LANE\LONDON       \EC2N 2AX     GBR,,,1.99
+tx_0000AgJLRvCFsKgpLui6Az,28/03/2024,12:50:53,Card payment,Temu,🛍️,Shopping,5.21,GBP,5.21,GBP,,1 Bartholomew Lane,,Temu.com              \1 BARTHOLOMEW LANE\LONDON       \EC2N 2AX     GBR,,,5.21
+tx_0000AgJLRybXCmmQqxCYPR,28/03/2024,12:50:53,Card payment,Temu,🛍️,Shopping,2.99,GBP,2.99,GBP,,1 Bartholomew Lane,,Temu.com              \1 BARTHOLOMEW LANE\LONDON       \EC2N 2AX     GBR,,,2.99
+tx_0000AgJLS1qt8ABigRIPkQ,28/03/2024,12:50:54,Card payment,Temu,🛍️,Shopping,6.11,GBP,6.11,GBP,,1 Bartholomew Lane,,Temu.com              \1 BARTHOLOMEW LANE\LONDON       \EC2N 2AX     GBR,,,6.11
+tx_0000AgJLS5honp0vec0Rvd,28/03/2024,12:50:55,Card payment,Temu,🛍️,Shopping,4.39,GBP,4.39,GBP,,1 Bartholomew Lane,,Temu.com              \1 BARTHOLOMEW LANE\LONDON       \EC2N 2AX     GBR,,,4.39
+tx_0000AgO4UX37NsIFeN0XLt,30/03/2024,19:34:25,Card payment,Yaawin Global Spicy Supermarket,🍷,Groceries,-21.79,GBP,-21.79,GBP,,Christchurch Road,,YAAWIN GLOBAL SPICY SU BOURNEMOUTH   GBR,,-21.79,
+tx_0000AgOrrVcPlUTxcx6SR7,31/03/2024,04:47:37,Faster payment,Inaboya Uduzen,,Income,20.00,GBP,20.00,GBP,Sent from Monzo,,,Sent from Monzo,,,20.00
+tx_0000AgOs7IxAccC9YTFcKz,31/03/2024,04:50:28,Faster payment,Armand Kurti,,General,-80.00,GBP,-80.00,GBP,Sent from Monzo,,,Sent from Monzo,,-80.00,
+tx_0000AgRCDovr1cCB8TrOJX,01/04/2024,07:45:11,Card payment,West Country Vending,🍏,Groceries,-2.00,GBP,-2.00,GBP,,218A022 - Amazon Swi,,NYA*West Country Vendi Aberystwyth   GBR,,-2.00,
+tx_0000AgSFRZEcg6P4YUEucz,01/04/2024,19:55:59,Card payment,Co-op,🍏,Groceries,-7.40,GBP,-7.40,GBP,,2 Columbia Road,,CO-OP GROUP FOOD       BOURNEMOUTH   GBR,,-7.40,
+tx_0000AgUMgRP5AGfOMCHThk,02/04/2024,20:26:32,Faster payment,Joy Obidinanwa,,Income,37.00,GBP,37.00,GBP,Sent from Monzo,,,Sent from Monzo,,,37.00
+tx_0000AgVe60bZJgs3F8LmZH,03/04/2024,11:16:21,Faster payment,OLUFUNMILAYO GRACE AJIBOYEDE,,Income,4.00,GBP,4.00,GBP,Sent from Revolut,,,Sent from Revolut,,,4.00
+tx_0000AgYj9jq0gGFvJzXfwg,04/04/2024,22:57:11,Card payment,Temu,🛍️,Shopping,-31.66,GBP,-31.66,GBP,,1 Bartholomew Lane,,Temu.com               LONDON        GBR,,-31.66,
+tx_0000AgZ4FxWIozxPa1EVVb,05/04/2024,02:53:37,Faster payment,C Nwachukwu,,Income,95.00,GBP,95.00,GBP,LOAN,,,LOAN,,,95.00
+tx_0000AgaNMcd4z3XOWr9pdx,05/04/2024,18:02:25,Faster payment,Walter Esenabhalu,,Transfers,-54.00,GBP,-54.00,GBP,Sent from Monzo,,,Sent from Monzo,,-54.00,
+tx_0000AgaU2aYZgBCe95nlhq,05/04/2024,19:17:14,Card payment,Yaawin Global Spicy Supermarket,🍷,Groceries,-11.99,GBP,-11.99,GBP,,Christchurch Road,,YAAWIN GLOBAL SPICY SU BOURNEMOUTH   GBR,,-11.99,
+tx_0000AgcCGrCjAf0ZXCATpZ,06/04/2024,15:07:33,Card payment,Co-op,🍏,Groceries,-10.15,GBP,-10.15,GBP,,2 Columbia Road,,CO-OP GROUP FOOD       BOURNEMOUTH   GBR,,-10.15,
+tx_0000AgcNFb1ivpcy5EsOw5,06/04/2024,17:10:34,Faster payment,Adedotun Ayoade,,Income,15.00,GBP,15.00,GBP,Adedotun Ayoade,,,Adedotun Ayoade,,,15.00
+tx_0000AgcNs9bqnog6gtXgJN,06/04/2024,17:17:33,Faster payment,Joy Obidinanwa,,Income,28.00,GBP,28.00,GBP,Sent from Monzo,,,Sent from Monzo,,,28.00
+tx_0000AgcXqZuh28ryLL7lgY,06/04/2024,19:09:19,Faster payment,Joy Obidinanwa,,Income,700.00,GBP,700.00,GBP,Sent from Monzo,,,Sent from Monzo,,,700.00
+tx_0000AgdLagOEBM2SkyX9Bx,07/04/2024,04:26:41,Faster payment,Chiderah Onwumelu,,Income,15.00,GBP,15.00,GBP,Sent from Revolut,,,Sent from Revolut,,,15.00
+tx_0000AgdNVKcPtoC9h9kLZp,07/04/2024,04:48:08,Card payment,Aris Taxi,🚖,Transport,-80.00,GBP,-80.00,GBP,,150 Capstone Road,,ARIS TAXI              BOURNEMOUTH   GBR,,-80.00,
+tx_0000Age8hr1tuuxKkPFj1u,07/04/2024,13:37:02,Faster payment,Inaboya Uduzen,,Income,5.00,GBP,5.00,GBP,Sent from Monzo,,,Sent from Monzo,,,5.00
+tx_0000AghWs30vCBwswPmLI1,09/04/2024,04:51:55,Faster payment,Richard Onyemata,,General,-50.00,GBP,-50.00,GBP,Sent from Monzo,,,Sent from Monzo,,-50.00,
+tx_0000AghWzFVr7hJjAhizsg,09/04/2024,04:53:14,Faster payment,Richard Onyemata,,Transfers,-200.00,GBP,-200.00,GBP,Sent from Monzo,,,Sent from Monzo,,-200.00,
+tx_0000AginnSE7v50aw9ZuvR,09/04/2024,19:36:18,Card payment,Tesco,🍏 ,Groceries,-3.91,GBP,-3.91,GBP,,69-89 Holdenhurst Road,,TESCO STORES 6316      DORSET        GBR,,-3.91,
+tx_0000AginqMhmuBgvvBMiXp,09/04/2024,19:36:49,Card payment,Tesco,🍏 ,Groceries,-0.30,GBP,-0.30,GBP,,69-89 Holdenhurst Road,,TESCO STORES 6316      DORSET        GBR,,-0.30,
+tx_0000Agj50FBBRK9Jbkjesu,09/04/2024,22:49:06,Card payment,Bournemouth University,📚,Eating out,-2.10,GBP,-2.10,GBP,,10 SAINT PAULS LANE,,BOURNEMOUTH UNIVERSITY BOURNEMOUTH   GBR,,-2.10,
+tx_0000AgjOSar4LH1Xv1lZkP,10/04/2024,02:27:07,Card payment,Bournemouth University,📚,Eating out,-2.10,GBP,-2.10,GBP,,10 SAINT PAULS LANE,,BOURNEMOUTH UNIVERSITY BOURNEMOUTH   GBR,,-2.10,
+tx_0000Agjqklo1ACVQCab6Hq,10/04/2024,07:44:08,Faster payment,C Nwachukwu,,Income,3.00,GBP,3.00,GBP,LOAN,,,LOAN,,,3.00
+tx_0000AgjqmY9QtyzoQrSkwE,10/04/2024,07:44:28,Card payment,ScotRail,🚅,Transport,-10.00,GBP,-10.00,GBP,,"Trainline, Holborn",,Scotrail               London        GBR,,-10.00,
+tx_0000AgjqoWR2FlL3IXpm3F,10/04/2024,07:44:49,Faster payment,Inaboya Uduzen,,Income,10.00,GBP,10.00,GBP,Sent from Monzo,,,Sent from Monzo,,,10.00
+tx_0000AgmC4d0i3oPCz8JbqD,11/04/2024,10:52:27,Faster payment,J Kayode,,Income,2.00,GBP,2.00,GBP,Refund,,,Refund,,,2.00
+tx_0000AgoLggjjwU54vdlmWi,12/04/2024,11:48:54,Card payment,Temu,🛍️,Shopping,-17.26,GBP,-17.26,GBP,,1 Bartholomew Lane,,Temu.com               LONDON        GBR,,-17.26,
+tx_0000AgoLjFqeMyM3wf3KeA,12/04/2024,11:50:04,Card payment,Temu,🛍️,Shopping,-2.28,GBP,-2.28,GBP,,1 Bartholomew Lane,,Temu.com               LONDON        GBR,,-2.28,
+tx_0000AgoQAdV2wRJm5G8lZh,12/04/2024,12:39:50,Card payment,Co-op,🍏,Groceries,-4.95,GBP,-4.95,GBP,,2 Columbia Road,,CO-OP GROUP FOOD       BOURNEMOUTH   GBR,,-4.95,
+tx_0000AgoUU1tir0EYpg62Yk,12/04/2024,13:28:10,Card payment,Adam Caplan,,General,-8.00,GBP,-8.00,GBP,,The Chippings,,Zettle_*Adam Caplan    Berkhamsted   GBR,,-8.00,
+tx_0000AgomJD3UpPzHkU9GXh,12/04/2024,16:47:54,Card payment,Yaawin Global Spicy Supermarket,🍷,Groceries,-13.85,GBP,-13.85,GBP,,Christchurch Road,,YAAWIN GLOBAL SPICY SU BOURNEMOUTH   GBR,,-13.85,
+tx_0000AgooDxnSKe5MHWeSOY,12/04/2024,17:09:21,Card payment,Tesco,🍏 ,Groceries,-9.50,GBP,-9.50,GBP,,11 Bourne Avenue,,TESCO STORES 6399      BOURNEMOUTH   GBR,,-9.50,
+tx_0000Agq10SR96pMNZIdUDR,13/04/2024,07:07:17,Faster payment,Mountassir Talbi,,Transport,-100.00,GBP,-100.00,GBP,Sent from Monzo,,,Sent from Monzo,,-100.00,
+tx_0000AgqgoQq5Q6En5Y5n2f,13/04/2024,14:55:44,Card payment,West Country Vending,🍏,Groceries,-2.00,GBP,-2.00,GBP,,218A022 - Amazon Swi,,NYA*West Country Vendi Aberystwyth   GBR,,-2.00,
+tx_0000Agqia2e0mKKCNBRMRf,13/04/2024,15:15:32,Card payment,West Country Vending,🍏,Groceries,-2.00,GBP,-2.00,GBP,,218A022 - Amazon Swi,,NYA*West Country Vendi Aberystwyth   GBR,,-2.00,
+tx_0000AgqsJYhfKW9P3Fg3nN,13/04/2024,17:04:37,Card payment,West Country Vending,🍏,Groceries,-2.00,GBP,-2.00,GBP,,218A022 - Amazon Swi,,NYA*West Country Vendi Aberystwyth   GBR,,-2.00,
+tx_0000Agqv1y7YOBJHy0oeJN,13/04/2024,17:35:02,Faster payment,Inaboya Uduzen,,Income,32.00,GBP,32.00,GBP,Sent from Monzo,,,Sent from Monzo,,,32.00
+tx_0000Agqv58y8VqKWDCOtW5,13/04/2024,17:35:37,Faster payment,Inaboya Uduzen,,Income,15.00,GBP,15.00,GBP,Sent from Monzo,,,Sent from Monzo,,,15.00
+tx_0000Agqv8XMAIRfaPOlxZq,13/04/2024,17:36:14,Faster payment,Oseremen Irehovbude,,Income,15.00,GBP,15.00,GBP,Sent from Revolut,,,Sent from Revolut,,,15.00
+tx_0000Agqvenj0ySk4jC9dR4,13/04/2024,17:42:04,Faster payment,Joy Obidinanwa,,Income,30.00,GBP,30.00,GBP,Sent from Monzo,,,Sent from Monzo,,,30.00
+tx_0000AgqwzTyrg7GPPNeBIf,13/04/2024,17:57:00,Card payment,Go South Coast,🚍,Transport,-4.00,GBP,-4.00,GBP,,,,GO SOUTH COAST         POOLE         GBR,,-4.00,
+tx_0000Agr55ZjI15s8kYIhQv,13/04/2024,19:27:45,Card payment,Yaawin Global Spicy Supermarket,🍷,Groceries,-25.88,GBP,-25.88,GBP,,Christchurch Road,,YAAWIN GLOBAL SPICY SU BOURNEMOUTH   GBR,,-25.88,
+tx_0000AgrCOjCRjJWTHRqHy8,13/04/2024,20:49:39,Card payment,Co-op,🍏,Groceries,-9.10,GBP,-9.10,GBP,,2 Columbia Road,,CO-OP GROUP FOOD       BOURNEMOUTH   GBR,,-9.10,
+tx_0000AgrKpvbAXTZgluYcBl,13/04/2024,22:24:12,Faster payment,Dean Patel,,Income,30.00,GBP,30.00,GBP,walter,,,walter,,,30.00
+tx_0000AgrQUhoxAUsjgWGi3N,13/04/2024,23:27:35,Faster payment,Chiderah Onwumelu,,Income,15.00,GBP,15.00,GBP,Sent from Revolut,,,Sent from Revolut,,,15.00
+tx_0000AgrtMygdTVhgLb2rpp,14/04/2024,04:51:08,Faster payment,K Eze,,Income,15.00,GBP,15.00,GBP,Logistics,,,Logistics,,,15.00
+tx_0000AgrvPLogeKRWrn3Nz7,14/04/2024,05:13:59,Card payment,Aris Taxi,🚖,Transport,-80.00,GBP,-80.00,GBP,,150 Capstone Road,,ARIS TAXI              BOURNEMOUTH   GBR,,-80.00,
+tx_0000Agt1E4EGUc9urinqwE,14/04/2024,17:53:53,Card payment,Trainline,🚄,Transport,-13.10,GBP,-13.10,GBP,,Holborn 120,,Trainline              +443332022222 GBR,,-13.10,
+tx_0000Agt6jeMggq8qoHGXLO,14/04/2024,18:55:37,Faster payment,Inaboya Uduzen,,Income,13.00,GBP,13.00,GBP,Sent from Monzo,,,Sent from Monzo,,,13.00
+tx_0000Agur4Tf6T7HncZVbgA,15/04/2024,15:09:31,Faster payment,O Ajiboyede,,Income,31.00,GBP,31.00,GBP,payment for cab,,,payment for cab,,,31.00
+tx_0000AgwRvLV5KoIWpLtKpV,16/04/2024,09:37:10,Faster payment,Richard Onyemata,,General,-50.00,GBP,-50.00,GBP,Sent from Monzo,,,Sent from Monzo,,-50.00,
+tx_0000Agx6OccMlepMZQBnYQ,16/04/2024,17:10:40,Card payment,7bone Buger Co.,🍽,Eating out,-10.75,GBP,-10.75,GBP,,9 Gervis Place,,7Bone Buger Co.        Bournemouth   GBR,,-10.75,
+tx_0000AgxRk2HUe3zfHZTigz,16/04/2024,21:09:50,Card payment,ScotRail,🚅,Transport,-14.55,GBP,-14.55,GBP,,"Trainline, Holborn",,Scotrail               London        GBR,,-14.55,
+tx_0000AgxdS3oVPKxJj6lRje,16/04/2024,23:21:03,Faster payment,Dean Patel,,Income,10.28,GBP,10.28,GBP,walter,,,walter,,,10.28
+tx_0000AgyZuAdbQLS8t47i0f,17/04/2024,10:16:01,Card payment,Union Shop,🍎,Groceries,-5.03,GBP,-5.03,GBP,,Bournemouth University,,Union Shop             Poole         GBR,,-5.03,
+tx_0000Ah0nomEuUp129kJSQU,18/04/2024,12:01:20,Card payment,Temu,🛍️,Shopping,-54.56,GBP,-54.56,GBP,,1 Bartholomew Lane,,Temu.com               LONDON        GBR,,-54.56,
+tx_0000Ah1SfrKoHMsItHKUxn,18/04/2024,19:39:08,Faster payment,Walter Esenabhalu,,Transfers,-100.00,GBP,-100.00,GBP,Sent from Monzo,,,Sent from Monzo,,-100.00,
+tx_0000Ah1rupvWIGZxiojs2s,19/04/2024,00:21:58,Card payment,Temu,🛍️,Shopping,54.56,GBP,54.56,GBP,,1 Bartholomew Lane,,Temu.com              \1 BARTHOLOMEW LANE\LONDON       \EC2N 2AX     GBR,,,54.56
+tx_0000Ah2DRggrklI2Bdpz4V,19/04/2024,04:23:12,Faster payment,OLUFUNMILAYO GRACE AJIBOYEDE,,Income,13.75,GBP,13.75,GBP,For cab Salisbury,,,For cab Salisbury,,,13.75
+tx_0000Ah2GD6rITgJKLc0fbe,19/04/2024,04:54:11,Faster payment,Shobowale Tomiloye,,General,-55.00,GBP,-55.00,GBP,Sent from Monzo,,,Sent from Monzo,,-55.00,
+tx_0000Ah2pR0OEp0uxJ1qeR8,19/04/2024,11:28:52,Faster payment,Chiderah Onwumelu,,Income,13.75,GBP,13.75,GBP,Sent from Revolut,,,Sent from Revolut,,,13.75
+tx_0000Ah3Kv5W5QHeyWXFJH0,19/04/2024,17:21:40,Faster payment,Richard Chijindu Onyemata,,Income,200.00,GBP,200.00,GBP,Sent from Revolut,,,Sent from Revolut,,,200.00
+tx_0000Ah3McqVQh1vyIFRvme,19/04/2024,17:40:47,Faster payment,Joy Obidinanwa,,Income,14.00,GBP,14.00,GBP,Sent from Monzo,,,Sent from Monzo,,,14.00
+tx_0000Ah3n4J0TQwy3ngUf8T,19/04/2024,22:37:04,Faster payment,Walter Esenabhalu,,Expenses,-182.00,GBP,-182.00,GBP,Sent from Monzo,,,Sent from Monzo,,-182.00,
+tx_0000Ah4Hk89JBmsMuiUApl,20/04/2024,04:20:47,Card payment,Go South Coast,🚍,Transport,-2.00,GBP,-2.00,GBP,,,,GO SOUTH COAST         POOLE         GBR,,-2.00,
+tx_0000Ah4RK6Bkr4B0BCsgbp,20/04/2024,06:08:08,Faster payment,Chiderah Onwumelu,,Income,15.00,GBP,15.00,GBP,Sent from Revolut,,,Sent from Revolut,,,15.00
+tx_0000Ah4sjZV5i0VfeItTxR,20/04/2024,11:15:16,Card payment,Premier,🛒,Groceries,-1.69,GBP,-1.69,GBP,,21 Charminster Road,,PREMIER                BOURNEMOUTH   GBR,,-1.69,
+tx_0000Ah5BSe3pOmbhtOZaZm,20/04/2024,14:45:06,Card payment,ATM,💵,Finances,-200.00,GBP,-200.00,GBP,,Dalkeith Lane,,NATWEST BANK           BORUNEMOUTH   GBR,,-200.00,
+tx_0000Ah6GeHr2TsOX0IBi5J,21/04/2024,03:17:57,Card payment,Go South Coast,🚍,Transport,-3.40,GBP,-3.40,GBP,,,,GO SOUTH COAST         POOLE         GBR,,-3.40,
+tx_0000Ah6e1WJ7D2cUgxKEEN,21/04/2024,07:39:51,Faster payment,Olalekan Atanda,,General,-13.00,GBP,-13.00,GBP,Sent from Monzo,,,Sent from Monzo,,-13.00,
+tx_0000Ah7kyC76j5ImZaO3Fp,21/04/2024,20:32:24,Faster payment,C Nwachukwu,,Income,100.00,GBP,100.00,GBP,LOAN,,,LOAN,,,100.00
+tx_0000Ah8sXWXZfI2JXgWJd3,22/04/2024,09:31:56,Faster payment,Walter Esenabhalu,,Transfers,-10.00,GBP,-10.00,GBP,Sent from Monzo,,,Sent from Monzo,,-10.00,
+tx_0000Ah8skjvfCLu7zn5RMx,22/04/2024,09:34:19,Faster payment,Richard Onyemata,,Transfers,-50.00,GBP,-50.00,GBP,Sent from Monzo,,,Sent from Monzo,,-50.00,
+tx_0000AhB12RAgrhKqce90Ec,23/04/2024,10:16:35,Card payment,Uber,🚖,Transport,0.00,GBP,0.00,GBP,Active card check,Aldgate Tower First Floor,,Uber UK Rides          London        GBR,,0.00,
+tx_0000AhB1CPAj9axpJ0Rzrn,23/04/2024,10:18:23,Card payment,Google,💻,Entertainment,0.00,GBP,0.00,NGN,Active card check,,,GOOGLE *ANDROID TEMP   g.co/helppay# USA,,0.00,
+tx_0000AhB1Ny1duSTovCr0T3,23/04/2024,10:20:29,Card payment,Uber,🚖,Transport,-6.99,GBP,-6.99,GBP,,Aldgate Tower First Floor,,UBER   * PENDING       London        GBR,,-6.99,
+tx_0000AhB1iXGcalI3g8Wpc2,23/04/2024,10:24:12,Card payment,Uber,🚖,Transport,6.99,GBP,6.99,GBP,,Aldgate Tower First Floor,,UBER   * PENDING       London        GBR,,,6.99
+tx_0000AhB8eieuziarTJnpf1,23/04/2024,11:41:56,Card payment,First Bus,🚌,Transport,-2.00,GBP,-2.00,GBP,,EMPRESS RD,,FIRST HAMPSHIRE        SOUTHAMPTON   GBR,,-2.00,
+tx_0000AhBFG0XC62uI0ZMSdV,23/04/2024,12:55:54,Faster payment,LEMFI,,Income,50.00,GBP,50.00,GBP,8098330d-aae9,,,8098330d-aae9,,,50.00
+tx_0000AhBFUCbC2O4iMfcPCL,23/04/2024,12:58:28,Card payment,First Bus,🚌,Transport,-2.00,GBP,-2.00,GBP,,EMPRESS RD,,FIRST HAMPSHIRE        SOUTHAMPTON   GBR,,-2.00,
+tx_0000AhCpzofoJo1nK4BCNP,24/04/2024,07:22:17,Card payment,Lebara,📱,Bills,-10.00,GBP,-10.00,GBP,,7th Floor Import Building 2 Clove Crescent,,Lebara Mobile Limited  London        GBR,,-10.00,
+tx_0000AhD5qEf8R3LgM7ELYn,24/04/2024,10:19:49,Faster payment,LEMFI,,Income,310.00,GBP,310.00,GBP,0e14074a-3e25,,,0e14074a-3e25,,,310.00
+tx_0000AhD61zwMzt5a72zHKE,24/04/2024,10:21:57,Faster payment,Richard Onyemata,,General,-100.00,GBP,-100.00,GBP,Sent from Monzo,,,Sent from Monzo,,-100.00,
+tx_0000AhD66VSFlnPsKF8vf0,24/04/2024,10:22:46,Faster payment,Walter Esenabhalu,,Transfers,-200.00,GBP,-200.00,GBP,Sent from Monzo,,,Sent from Monzo,,-200.00,
+tx_0000AhD6CJN3btP3Yzji3l,24/04/2024,10:23:49,Faster payment,LEMFI,,Income,58.00,GBP,58.00,GBP,c57d392f-4f67,,,c57d392f-4f67,,,58.00
+tx_0000AhFoHfMU3qF5eASRnt,25/04/2024,17:47:14,Card payment,Tesco,🍏 ,Groceries,-2.20,GBP,-2.20,GBP,,21-25 Castle Street,,TESCO STORES 3151      SALISBURY 1   GBR,,-2.20,
+tx_0000AhGduDub9E7GNRdHdp,26/04/2024,03:25:39,Card payment,Go South Coast,🚍,Transport,-2.00,GBP,-2.00,GBP,,,,GO SOUTH COAST         POOLE         GBR,,-2.00,
+tx_0000AhHXHdStnnxuFlrjxR,26/04/2024,13:46:09,Faster payment,ESENABHALU A,,Transfers,332.00,GBP,332.00,GBP,Walter,,,Walter,,,332.00
+tx_0000AhHXcLs8PLk8NVqJU2,26/04/2024,13:49:54,Faster payment,Walter Esenabhalu,,Transfers,-350.00,GBP,-350.00,GBP,Sent from Monzo,,,Sent from Monzo,,-350.00,
+tx_0000AhHYOqveF84h6dIMFd,26/04/2024,13:58:40,Card payment,Tesco,🍏 ,Groceries,-7.35,GBP,-7.35,GBP,,3-4 The Triangle,,TESCO STORES 5880      BOURNEMOUTH   GBR,,-7.35,
+tx_0000AhHetqIDG1ETv5UYvh,26/04/2024,15:11:30,Card payment,Osas Afro Carribbean S,🍎,Groceries,-13.21,GBP,-13.21,GBP,,512 Christchurch Road,,OSAS AFRO CARRIBBEAN S BOURNEMOUTH   GBR,,-13.21,
+tx_0000AhHhA2PABz6UoSpqqn,26/04/2024,15:36:50,Card payment,Yaawin Global Spicy Supermarket,🍷,Groceries,-17.24,GBP,-17.24,GBP,,Christchurch Road,,YAAWIN GLOBAL SPICY SU BOURNEMOUTH   GBR,,-17.24,
+tx_0000AhIiTg5TAlsf0AZ4LJ,27/04/2024,03:26:18,Card payment,Go South Coast,🚍,Transport,-2.00,GBP,-2.00,GBP,,,,GO SOUTH COAST         POOLE         GBR,,-2.00,
+tx_0000AhJG4pvwp8JREsNYHp,27/04/2024,09:42:47,Card payment,Asda,🍏,Groceries,-4.70,GBP,-4.70,GBP,,Saint Pauls Road,,ASDA BOURNEMOUTH       DORSET        GBR,,-4.70,
+tx_0000AhJTpXdTyGFljJ24wb,27/04/2024,12:16:53,Card payment,S Rogers Fruit & Veg,🍎,Groceries,-7.00,GBP,-7.00,GBP,,65 Stradbroke Grove,,S Rogers Fruit & Veg   Buckhurst Hil GBR,,-7.00,
+tx_0000AhKCM4w45woOOF3T2v,27/04/2024,20:35:48,Card payment,Esso,⛽️,Transport,-2.40,GBP,-2.40,GBP,,Bath Road,,ESSO BATH ROAD         BOURNEMOUTH   GBR,,-2.40,
+tx_0000AhKmHf4XuNPbKeisiX,28/04/2024,03:18:23,Card payment,Go South Coast,🚍,Transport,-6.00,GBP,-6.00,GBP,,,,GO SOUTH COAST         POOLE         GBR,,-6.00,
+tx_0000AhM5E4xXoNohbjZNFh,28/04/2024,18:25:20,Faster payment,Inaboya Uduzen,,Income,10.00,GBP,10.00,GBP,Sent from Monzo,,,Sent from Monzo,,,10.00
+tx_0000AhNEWZCNDPNFKFLf1O,29/04/2024,07:44:13,Faster payment,Obidinanwa Joy Ujunwa,,General,-20.00,GBP,-20.00,GBP,Sent from Monzo,,,Sent from Monzo,,-20.00,
+tx_0000AhNZUxBJAsz5l1cLrN,29/04/2024,11:39:15,Card payment,Go South Coast,🚍,Transport,-4.00,GBP,-4.00,GBP,,,,GO SOUTH COAST         POOLE         GBR,,-4.00,
+tx_0000AhNgdINyv7JiDHv6BO,29/04/2024,12:59:11,Card payment,Union Shop,🍎,Groceries,-2.85,GBP,-2.85,GBP,,Bournemouth University,,Union Shop             Poole         GBR,,-2.85,
+tx_0000AhP1kYLeGOopqdEwWQ,30/04/2024,04:30:31,Faster payment,Richard Chijindu Onyemata,,Income,50.00,GBP,50.00,GBP,Sent from Revolut,,,Sent from Revolut,,,50.00
+tx_0000AhPJX5zu9qOATH0NqW,30/04/2024,07:49:46,Faster payment,Obidinanwa Joy Ujunwa,,General,-10.00,GBP,-10.00,GBP,Sent from Monzo,,,Sent from Monzo,,-10.00,
+tx_0000AhQ7nCMzEFnZ6HTbRx,30/04/2024,17:12:56,Faster payment,GBENGA-AYENI,,Income,500.00,GBP,500.00,GBP,HOLINESS,,,HOLINESS,,,500.00
+tx_0000AhQXEaTAETywDZ9pcw,30/04/2024,21:58:00,Faster payment,K Eze,,Income,14.55,GBP,14.55,GBP,LOGISTICS,,,LOGISTICS,,,14.55
+tx_0000AhRQPaKIbESdg8c1LO,01/05/2024,08:16:17,Card payment,Sue Ryder 1263,,General,-9.00,GBP,-9.00,GBP,,8 Priory Square,,SUE RYDER 1263         SALISBURY     GBR,,-9.00,
+tx_0000AhTrmbYJIH1iUl3U82,02/05/2024,12:32:24,Card payment,ScotRail,🚅,Transport,-13.55,GBP,-13.55,GBP,,"Trainline, Holborn",,Scotrail               London        GBR,,-13.55,
+tx_0000AhTsFpJlC2p8CcQALr,02/05/2024,12:37:40,Faster payment,Inaboya Uduzen,,Income,13.55,GBP,13.55,GBP,Sent from Monzo,,,Sent from Monzo,,,13.55
+tx_0000AhVi7O2S7eTUA7PAtW,03/05/2024,09:53:31,Faster payment,Richard Chijindu Onyemata,,Income,80.00,GBP,80.00,GBP,Sent from Revolut,,,Sent from Revolut,,,80.00
+tx_0000AhVvMXTibfo6n2nwfp,03/05/2024,12:21:56,Card payment,McColl’s,🍏,Transport,-2.00,GBP,-2.00,GBP,,3-4 Dolphin Centre,,MARTIN MCCOLL          POOLE         GBR,,-2.00,
+tx_0000AhW8ztfHLn9xf8AC6D,03/05/2024,14:54:42,Faster payment,Richard Onyemata,,Transfers,-80.00,GBP,-80.00,GBP,Sent from Monzo,,,Sent from Monzo,,-80.00,
+tx_0000AhW9Ja5Lr8xZmmtfBj,03/05/2024,14:58:15,Faster payment,Darlington Chidera Nwachukwu,,Expenses,-86.00,GBP,-86.00,GBP,Sent from Monzo,,,Sent from Monzo,,-86.00,
+tx_0000AhWLknBeS35j6rnZB3,03/05/2024,17:17:38,Card payment,Tesco,🍏 ,Groceries,-12.48,GBP,-12.48,GBP,,11 Bourne Avenue,,TESCO STORES 6399      BOURNEMOUTH   GBR,,-12.48,
+tx_0000AhWWX7N1iCZdlRAppS,03/05/2024,19:18:25,Card payment,Yaawin Global Spicy Supermarket,🍷,Groceries,-24.46,GBP,-24.46,GBP,,Christchurch Road,,YAAWIN GLOBAL SPICY SU BOURNEMOUTH   GBR,,-24.46,
+tx_0000AhXEGj5acLbQVnY3O5,04/05/2024,03:28:29,Card payment,Go South Coast,🚍,Transport,-4.00,GBP,-4.00,GBP,,,,GO SOUTH COAST         POOLE         GBR,,-4.00,
+tx_0000AhYKbSFtC66UXCqLD8,04/05/2024,16:14:10,Card payment,Smile Grill,🍴,Eating out,-12.00,GBP,-12.00,GBP,,121 Charminster Road,,SMILE GRILL            BOURNEMOUTH   GBR,,-12.00,
+tx_0000AhYL9YHPIm3epq9OEb,04/05/2024,16:20:20,Card payment,Taj Supermarket,🍎,Groceries,-3.84,GBP,-3.84,GBP,,,,TAJ SUPERMARKET        BOURNEMOUTH   GBR,,-3.84,
+tx_0000AhYmrZtzKRonbI4kyX,04/05/2024,21:30:49,Faster payment,Esther Oluwalese,,General,-15.00,GBP,-15.00,GBP,Esther Oluwalese,,,Esther Oluwalese,,-15.00,
+tx_0000AhZOxrppMdRnF1lk7W,05/05/2024,04:37:45,Card payment,Aris Taxi,🚖,Transport,-100.00,GBP,-100.00,GBP,,150 Capstone Road,,ARIS TAXI              BOURNEMOUTH   GBR,,-100.00,
+tx_0000AhZPhYQxpSMbIDtThB,05/05/2024,04:46:00,Faster payment,Rofiat Babatunde,,Income,12.50,GBP,12.50,GBP,Rofiat Babatunde,,,Rofiat Babatunde,,,12.50
+tx_0000AhZPsb4eLyWsfNipW6,05/05/2024,04:48:00,Faster payment,Adedotun Ayoade,,Income,12.50,GBP,12.50,GBP,Adedotun Ayoade,,,Adedotun Ayoade,,,12.50
+tx_0000Aha3d26q46tNLm2uIr,05/05/2024,12:13:23,Faster payment,OLUFUNMILAYO GRACE AJIBOYEDE,,Income,12.50,GBP,12.50,GBP,Sent from Revolut,,,Sent from Revolut,,,12.50
+tx_0000AhabNgQ1pByJu3WBiz,05/05/2024,18:31:35,Faster payment,Nzoputa Uzor,,Income,12.50,GBP,12.50,GBP,Nzoputa Uzor,,,Nzoputa Uzor,,,12.50
+tx_0000AhbaJr4mLzpXyML3b7,06/05/2024,05:54:24,Faster payment,Olalekan Atanda,,Income,12.50,GBP,12.50,GBP,Sent from Revolut,,,Sent from Revolut,,,12.50
+tx_0000AhbagFNuehrRjdxw7m,06/05/2024,05:58:27,Faster payment,Inaboya Uduzen,,Income,12.50,GBP,12.50,GBP,Sent from Monzo,,,Sent from Monzo,,,12.50
+tx_0000AhcoMqeVyiVbLocbM9,06/05/2024,20:06:31,Faster payment,Joy Obidinanwa,,Income,12.25,GBP,12.25,GBP,Sent from Monzo,,,Sent from Monzo,,,12.25
+tx_0000AhdQcTGAW32NfJ3Fw1,07/05/2024,03:15:08,Card payment,Go South Coast,🚍,Transport,-2.00,GBP,-2.00,GBP,,,,GO SOUTH COAST         POOLE         GBR,,-2.00,
+tx_0000AhdzS6Q44snE1fHIWH,07/05/2024,09:45:27,Card payment,Union Shop,🍎,Groceries,-1.85,GBP,-1.85,GBP,,Bournemouth University,,Union Shop             Poole         GBR,,-1.85,
+tx_0000AheujpSnYL7NoSDsFl,07/05/2024,20:27:20,Faster payment,Richard Onyemata,,General,-50.00,GBP,-50.00,GBP,Sent from Monzo,,,Sent from Monzo,,-50.00,
+tx_0000AhflrWdAkdhuv0eXcf,08/05/2024,06:22:35,Faster payment,Darlington Chidera Nwachukwu,,Income,7.50,GBP,7.50,GBP,Sent from Revolut,,,Sent from Revolut,,,7.50
+tx_0000AhgLzyXOTWpmAUWjHH,08/05/2024,13:07:30,Card payment,Impressions Ca,🏥,General,-5.10,GBP,-5.10,GBP,,251 Holdenhurst Rd,,SumUp  *Impressions Ca Bournemouth   GBR,,-5.10,
+tx_0000AhgkBfSLdukED2NbCz,08/05/2024,17:38:32,Card payment,Co-op,🍏,Groceries,-10.40,GBP,-10.40,GBP,,2 Columbia Road,,CO-OP GROUP FOOD       BOURNEMOUTH   GBR,,-10.40,
+tx_0000AhkQDx31zHQDoN2VH7,10/05/2024,12:13:41,Card payment,South Coast Living Lim,🛋,Shopping,-15.00,GBP,-15.00,GBP,,600 Christchurch Road,,SOUTH COAST LIVING LIM BOURNEMOUTH B GBR,,-15.00,
+tx_0000AhkRJ2aUuzCkTb3sTB,10/05/2024,12:25:49,Card payment,Spar,🍏,Groceries,-3.99,GBP,-3.99,GBP,,391-393 Wimborne Road,,SPAR                   BOURNEMOUTH   GBR,,-3.99,
+tx_0000AhkpQHToLTUNP6CbNx,10/05/2024,16:56:03,Card payment,Trainline,🚄,Transport,-14.94,GBP,-14.94,GBP,,Holborn 120,,Trainline              +443332022222 GBR,,-14.94,
+tx_0000AhkqE7OK80zIGFhoJ7,10/05/2024,17:05:03,Card payment,easyJet,🛩,Holidays,-19.99,GBP,-19.99,GBP,,HANGAR 89.,,EASYJET                WWW.EASYJET.C GBR,,-19.99,
+tx_0000AhksLNamUYNOVQ7qHC,10/05/2024,17:28:46,Card payment,Ryanair,✈️,Holidays,-15.42,GBP,-15.42,GBP,,Airside Business Park,,Ryanair                London        GBR,,-15.42,
+tx_0000AhlABv7ql7qTUr4EGv,10/05/2024,20:48:45,Card payment,Tasty,🍴,Eating out,-3.00,GBP,-3.00,GBP,,186 Old Christchurch Road,,TASTY                  BOURNEMOUTH   GBR,,-3.00,
+tx_0000AhlAEcjXb4q7Y2n2zS,10/05/2024,20:49:14,Card payment,Tasty,🍴,Eating out,-1.50,GBP,-1.50,GBP,,186 Old Christchurch Road,,TASTY                  BOURNEMOUTH   GBR,,-1.50,
+tx_0000AhlDITvEbDbfB9UiHp,10/05/2024,21:23:33,Card payment,Temu,🛍️,Shopping,-56.68,GBP,-56.68,GBP,,1 Bartholomew Lane,,Temu.com               LONDON        GBR,,-56.68,
+tx_0000AhlH5rVI0nQhVOjfgw,10/05/2024,22:06:06,Card payment,Nexus Bournemouth,🍸,Entertainment,-12.00,GBP,-12.00,GBP,,161 Old Christchurch Road,,NEXUS BOURNEMOUTH      Bournemouth   GBR,,-12.00,
+tx_0000AhmMhTgFjCVAezlWoD,11/05/2024,10:43:38,Card payment,Tesco,🍏 ,Groceries,-30.35,GBP,-30.35,GBP,,11 Bourne Avenue,,TESCO STORES 6399      BOURNEMOUTH   GBR,,-30.35,
+tx_0000Aho7t8MfhByq1J1ro9,12/05/2024,07:07:05,Faster payment,Walter Esenabhalu,,Savings,-160.00,GBP,-160.00,GBP,Sent from Monzo,,,Sent from Monzo,,-160.00,
+tx_0000AhoJIloHH7BkTMSIvB,12/05/2024,09:14:58,Card payment,Londis,🛒,Groceries,-0.99,GBP,-0.99,GBP,,176-178 Commercial Road,,LONDIS                 Bournemouth   GBR,,-0.99,
+tx_0000AhoNsgdcNhUSRSnY2b,12/05/2024,10:06:17,Faster payment,Deeper Christian Life Ministry,,Family,-5.00,GBP,-5.00,GBP,Bou,,,Bou,,-5.00,
+tx_0000Ahp3ItDwJ3KLVrOa25,12/05/2024,17:50:25,Faster payment,Adedotun Ayoade,,Income,17.50,GBP,17.50,GBP,Sent from Revolut,,,Sent from Revolut,,,17.50
+tx_0000AhpEf4e3cceuXfyD0z,12/05/2024,19:57:41,Faster payment,Joy Obidinanwa,,Income,12.50,GBP,12.50,GBP,Sent from Monzo,,,Sent from Monzo,,,12.50
+tx_0000AhpGuHJaztMXxjCkWw,12/05/2024,20:22:50,Faster payment,Inaboya Uduzen,,Income,24.50,GBP,24.50,GBP,Sent from Monzo,,,Sent from Monzo,,,24.50
+tx_0000AhpIfJzUxwscxaorQH,12/05/2024,20:42:33,Faster payment,Adetoro Odupitan,,Income,12.00,GBP,12.00,GBP,Sent from Revolut,,,Sent from Revolut,,,12.00
+tx_0000AhpIjXkfkH8UkCMq9p,12/05/2024,20:43:19,Faster payment,Faustina Ahunanya,,Income,12.50,GBP,12.50,GBP,Sent from Revolut,,,Sent from Revolut,,,12.50
+tx_0000AhpIvHmcwRc53lZAwL,12/05/2024,20:45:26,Faster payment,K Eze,,Income,12.50,GBP,12.50,GBP,LOGISTICS,,,LOGISTICS,,,12.50
+tx_0000Ahq0S4ZdN62McnXfVJ,13/05/2024,04:53:11,Card payment,Aris Taxi,🚖,Transport,-100.00,GBP,-100.00,GBP,,150 Capstone Road,,ARIS TAXI              BOURNEMOUTH   GBR,,-100.00,
+tx_0000AhqTb168YqP2YocrZ3,13/05/2024,10:19:44,Card payment,Revive Vending Ltd,🍎,Groceries,-2.20,GBP,-2.20,GBP,,,,NYA*Revive Vending Ltd Aberystwyth   GBR,,-2.20,
+tx_0000AhrxFoo4FyLNbmdqFd,14/05/2024,03:26:46,Card payment,Go South Coast,🚍,Transport,-2.00,GBP,-2.00,GBP,,,,GO SOUTH COAST         POOLE         GBR,,-2.00,
+tx_0000Ahu22sZxo7EWj3afzd,15/05/2024,03:29:53,Card payment,Go South Coast,🚍,Transport,-2.00,GBP,-2.00,GBP,,,,GO SOUTH COAST         POOLE         GBR,,-2.00,
+tx_0000AhuQORHcN56rGfjuVt,15/05/2024,08:02:41,Faster payment,C Nwachukwu,,Income,3.00,GBP,3.00,GBP,LOAN,,,LOAN,,,3.00
+tx_0000AhuruOtdTiQYgvDneb,15/05/2024,13:11:00,Faster payment,C Nwachukwu,,Income,57.00,GBP,57.00,GBP,LOAN,,,LOAN,,,57.00
+tx_0000AhusIj91qaXvo1vZdy,15/05/2024,13:15:24,Card payment,Makkah Foods - Winton,🍎,Groceries,-24.33,GBP,-24.33,GBP,,377 Wimborne Road,,Makkah Foods - Winton  Bournemouth   GBR,,-24.33,
+tx_0000AhvRVpH7rV9VwPk4Jt,15/05/2024,19:49:57,Card payment,Co-op,🍏,Groceries,-2.40,GBP,-2.40,GBP,,2 Columbia Road,,CO-OP GROUP FOOD       BOURNEMOUTH   GBR,,-2.40,
+tx_0000AhwNRujvOiyn4X3GT4,16/05/2024,06:39:08,Card payment,ScotRail,🚅,Transport,-12.00,GBP,-12.00,GBP,,"Trainline, Holborn",,Scotrail               London        GBR,,-12.00,
+tx_0000AhwNkKNknZpUHQkdkn,16/05/2024,06:42:27,Faster payment,Inaboya Uduzen,,Income,12.00,GBP,12.00,GBP,Sent from Monzo,,,Sent from Monzo,,,12.00
+tx_0000AhyB5jsuGXUTsBSHh3,17/05/2024,03:30:05,Card payment,Go South Coast,🚍,Transport,-4.00,GBP,-4.00,GBP,,,,GO SOUTH COAST         POOLE         GBR,,-4.00,
+tx_0000Ai1dInhQm2sGKFz4tN,18/05/2024,19:30:19,Card payment,Lidl,🥖,Groceries,-4.33,GBP,-4.33,GBP,,376-378 Wimborne Road,,LIDL GB BOURNEMOUTH    BOURNEMOUTH   GBR,,-4.33,
+tx_0000Ai2Lfsav8VnbA1gcPS,19/05/2024,03:47:31,Faster payment,O Ajiboyede,,Income,12.25,GBP,12.25,GBP,PAYMENT FOR CAB,,,PAYMENT FOR CAB,,,12.25
+tx_0000Ai2Q6KYSCeUfFtYyLx,19/05/2024,04:37:07,Faster payment,Joy Obidinanwa,,Income,12.25,GBP,12.25,GBP,Sent from Monzo,,,Sent from Monzo,,,12.25
+tx_0000Ai2QhwB1HvK8cYN8DJ,19/05/2024,04:43:54,Faster payment,O Ajiboyede,,Income,0.25,GBP,0.25,GBP,PAYMENT FOR CAB,,,PAYMENT FOR CAB,,,0.25
+tx_0000Ai2QiKho5foKhBteeQ,19/05/2024,04:43:59,Faster payment,Shobowale Tomiloye,,General,-50.00,GBP,-50.00,GBP,Sent from Monzo,,,Sent from Monzo,,-50.00,
+tx_0000Ai2QohRqRnTVmlJB58,19/05/2024,04:45:08,Faster payment,Joy Obidinanwa,,Income,0.25,GBP,0.25,GBP,Sent from Monzo,,,Sent from Monzo,,,0.25
+tx_0000Ai3DupkjNZwY2uv7vV,19/05/2024,13:55:17,Faster payment,Inaboya Uduzen,,Income,12.50,GBP,12.50,GBP,Sent from Monzo,,,Sent from Monzo,,,12.50
+tx_0000Ai4NBqXOo6sxyo4kXC,20/05/2024,03:13:55,Card payment,Go South Coast,🚍,Transport,-4.00,GBP,-4.00,GBP,,,,GO SOUTH COAST         POOLE         GBR,,-4.00,
+tx_0000Ai7ZVh99DNgpuxj6iv,21/05/2024,16:16:06,Faster payment,C Nwachukwu,,Income,20.00,GBP,20.00,GBP,LOAN,,,LOAN,,,20.00
+tx_0000Ai7bIBrePTRF2dEN6o,21/05/2024,16:36:04,Faster payment,Darlington Chidera Nwachukwu,,General,-20.00,GBP,-20.00,GBP,Sent from Monzo,,,Sent from Monzo,,-20.00,
+tx_0000Ai9CZuq2LFcHk0XEkl,22/05/2024,11:08:34,Card payment,Google,💻,Entertainment,0.00,GBP,0.00,NGN,Active card check,,,GOOGLE *ANDROID TEMP   g.co/helppay# USA,,0.00,
+tx_0000Ai9ESKWRALTj0SWi3Q,22/05/2024,11:29:36,Card payment,Google,💻,Entertainment,0.00,GBP,0.00,NGN,Active card check,,,GOOGLE *ANDROID TEMP   g.co/helppay# USA,,0.00,
+tx_0000Ai9EXXbDyLrOjrHRf2,22/05/2024,11:30:33,Faster payment,Darlington Chidera Nwachukwu,,Income,120.00,GBP,120.00,GBP,Sent from Revolut,,,Sent from Revolut,,,120.00
+tx_0000Ai9FrPyo6zAB7uK6LJ,22/05/2024,11:45:21,Card payment,Ryanair,✈️,Holidays,-97.45,GBP,-97.45,GBP,,Airside Business Park,,Ryanair                London        GBR,,-97.45,
+tx_0000AiA2y22qOXehcqmnEP,22/05/2024,20:55:35,Card payment,Tesco,🍏 ,Groceries,-6.80,GBP,-6.80,GBP,,11 Bourne Avenue,,TESCO STORES 6399      BOURNEMOUTH   GBR,,-6.80,
+tx_0000AiA5TrCoQjBbw8j6gb,22/05/2024,21:23:45,Card payment,Go South Coast,🚍,Transport,-2.00,GBP,-2.00,GBP,,,,GO SOUTH COAST         POOLE         GBR,,-2.00,
+tx_0000AiCgkgbHCPDHHhmGf3,24/05/2024,03:30:48,Card payment,Go South Coast,🚍,Transport,-2.00,GBP,-2.00,GBP,,,,GO SOUTH COAST         POOLE         GBR,,-2.00,
+tx_0000AiD1YhGT0927KPAzdS,24/05/2024,07:23:56,Card payment,Lebara,📱,Bills,-10.00,GBP,-10.00,GBP,,7th Floor Import Building 2 Clove Crescent,,Lebara Mobile Limited  London        GBR,,-10.00,
+tx_0000AiDEt5GKmoDVV0h4an,24/05/2024,09:53:17,Card payment,Tesco,🍏 ,Groceries,-5.30,GBP,-5.30,GBP,,1585 Wimborne Road,,TESCO STORES 4423      BOURNEMOUTH   GBR,,-5.30,
+tx_0000AiFjqHcnquaaPhi3eM,25/05/2024,14:49:33,Faster payment,Darlington Chidera Nwachukwu,,Income,8.00,GBP,8.00,GBP,Sent from Revolut,,,Sent from Revolut,,,8.00
+tx_0000AiKxaKa9SZkQXbuUyH,28/05/2024,03:17:06,Card payment,Go South Coast,🚍,Transport,-4.00,GBP,-4.00,GBP,,,,GO SOUTH COAST         POOLE         GBR,,-4.00,
+tx_0000AiLIvkrZ2e19pjranB,28/05/2024,07:16:17,Faster payment,Darlington Chidera Nwachukwu,,Income,44.00,GBP,44.00,GBP,Sent from Revolut,,,Sent from Revolut,,,44.00
+tx_0000AiM24HvOUyey8nXpD7,28/05/2024,15:42:03,Card payment,Osas Afro Carribbean S,🍎,Groceries,-3.28,GBP,-3.28,GBP,,512 Christchurch Road,,OSAS AFRO CARRIBBEAN S BOURNEMOUTH   GBR,,-3.28,
+tx_0000AiMM8Gj4tYP9g2nUUj,28/05/2024,19:26:52,Card payment,Co-op,🍏,Groceries,-8.25,GBP,-8.25,GBP,,2 Columbia Road,,CO-OP GROUP FOOD       BOURNEMOUTH   GBR,,-8.25,
+tx_0000AiOQ1TKGRI2PNZ6v7D,29/05/2024,19:19:53,Card payment,Yaawin Global Spicy Supermarket,🍷,Groceries,-14.41,GBP,-14.41,GBP,,Christchurch Road,,YAAWIN GLOBAL SPICY SU BOURNEMOUTH   GBR,,-14.41,
+tx_0000AiOQA0f8NWbx7CIP4L,29/05/2024,19:21:26,Card payment,Yaawin Global Spicy Supermarket,🍷,Groceries,-0.10,GBP,-0.10,GBP,,Christchurch Road,,YAAWIN GLOBAL SPICY SU BOURNEMOUTH   GBR,,-0.10,
+tx_0000AiP6FwpNkEX11KMAuR,30/05/2024,03:13:07,Card payment,Go South Coast,🚍,Transport,-6.00,GBP,-6.00,GBP,,,,GO SOUTH COAST         POOLE         GBR,,-6.00,
+tx_0000AiPkjCt56v6JhXCuXJ,30/05/2024,10:46:36,Card payment,ATM,💵,Finances,0.00,GBP,0.00,GBP,Balance check,,,Notemachine            SP2 7RS       GBR,,0.00,
+tx_0000AiPkkUxnOEDEsZzzIg,30/05/2024,10:46:50,Card payment,ATM,💵,Finances,-10.00,GBP,-10.00,GBP,,Notemachine,,Notemachine            SP2 7RS       GBR,,-10.00,
+tx_0000AiRKSbhjNbAispbljN,31/05/2024,05:01:41,Faster payment,GBENGA-AYENI,,Income,300.00,GBP,300.00,GBP,HOLINESS,,,HOLINESS,,,300.00
+tx_0000AiRxXE6cRVJSYxoCd0,31/05/2024,12:19:31,Faster payment,ESENABHALU A,,Transfers,60.00,GBP,60.00,GBP,Walter,,,Walter,,,60.00
+tx_0000AiSOv40GLuNvSRjwpt,31/05/2024,17:26:22,Faster payment,Darlington Chidera Nwachukwu,,General,-20.00,GBP,-20.00,GBP,Sent from Monzo,,,Sent from Monzo,,-20.00,
+tx_0000AiTQmg7JffmtNPVuVd,01/06/2024,05:21:58,Faster payment,Darlington Chidera Nwachukwu,,General,-50.00,GBP,-50.00,GBP,Sent from Monzo,,,Sent from Monzo,,-50.00,
+tx_0000AiUlD0ErfrSVUmVeDp,01/06/2024,20:45:33,Card payment,Tesco,🍏 ,Groceries,-1.60,GBP,-1.60,GBP,,21-25 Castle Street,,TESCO STORES 3151      SALISBURY 1   GBR,,-1.60,
+tx_0000AiVv1EiHE5w1bzFqkL,02/06/2024,10:10:11,Card payment,S.chapman &son,,General,-12.80,GBP,-12.80,GBP,,,,Zettle_*S.Chapman &Son Banstead      GBR,,-12.80,
+tx_0000AiVwonSquWCUwoTxyL,02/06/2024,10:30:20,Card payment,Yaawin Global Spicy Supermarket,🍷,Groceries,-15.80,GBP,-15.80,GBP,,Christchurch Road,,YAAWIN GLOBAL SPICY SU BOURNEMOUTH   GBR,,-15.80,
+tx_0000AiXNuOPLsHFemDmIrJ,03/06/2024,03:08:36,Card payment,Go South Coast,🚍,Transport,-2.00,GBP,-2.00,GBP,,,,GO SOUTH COAST         POOLE         GBR,,-2.00,
+tx_0000AiYc9OWTK4W4rNL5z0,03/06/2024,17:22:53,Card payment,Tesco,🍏 ,Groceries,-4.09,GBP,-4.09,GBP,,11 Bourne Avenue,,TESCO STORES 6399      BOURNEMOUTH   GBR,,-4.09,
+tx_0000AiZSrzQ2hRvDBIUUKX,04/06/2024,03:13:37,Card payment,Go South Coast,🚍,Transport,-6.00,GBP,-6.00,GBP,,,,GO SOUTH COAST         POOLE         GBR,,-6.00,
