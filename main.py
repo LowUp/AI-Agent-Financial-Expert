@@ -52,7 +52,7 @@ def main():
     try:
         st.title("AI finance advisor")
         
-        user_csv = st.file_uploader("Upload your csv file", type="csv")
+        user_csv = st.file_uploader("Upload your financial data", type="csv")
         
         if "conversation" not in st.session_state:
             st.session_state.conversation = None
