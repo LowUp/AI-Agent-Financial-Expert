@@ -9,7 +9,12 @@ from langchain_community.embeddings.huggingface import HuggingFaceEmbeddings
 from langchain_community.vectorstores import FAISS
 from langchain.memory import ConversationBufferMemory
 from langchain.chains import ConversationalRetrievalChain
-# from htmlTemplates import css, bot_template, user_template
+from dotenv import load_dotenv
+import os
+
+load_dotenv()
+
+LLM_API = os.getenv("LLM_API")
 
 # Vectorise file data
 def get_vectorstore(data):
@@ -34,7 +39,7 @@ def get_vectorstore(data):
 def get_conversation_chain(vecrorestore):
     llm = Ollama(
                 model="llama3",
-                base_url='http://192.168.1.65:11434'
+                base_url=LLM_API
             )
     
     memory = ConversationBufferMemory(
@@ -49,8 +54,9 @@ def get_conversation_chain(vecrorestore):
     return conversation_chain
            
 def main():
+    st.set_page_config(page_title="AI finance advisor", page_icon=":chart_with_upwards_trend:")
+    st.title("AI finance advisor")
     try:
-        st.title("AI finance advisor")
         
         user_csv = st.file_uploader("Upload your financial data", type="csv")
         

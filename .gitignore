@@ -3,3 +3,4 @@ env-variables/
 tets.py
 vectorestore/db_faiss/*
 *.csv
+.env
