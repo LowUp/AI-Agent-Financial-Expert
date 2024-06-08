@@ -12,18 +12,20 @@ The advisor can:
 Clone or download the project repository to your local machine.
 
 2. Install the required libraries:
-``pip install -r requirements.txt``
+````pip install -r requirements.txt````
 
-3. Run the main script:
-``streamlit run main.py``
+3. Create .env file
 
-4. Access the application:
+4. Run the main script:
+````streamlit run main.py````
+
+5. Access the application:
 Open your web browser and navigate to http://localhost:8501.
 
-5. Upload your financial data:
+6. Upload your financial data:
 Click on the "Upload your financial data" button and select your CSV file.
 
-6. Ask questions:
+7. Ask questions:
 Type your questions in the text input field and click "Enter". The AI advisor will respond with its analysis and recommendations.
 
 ## Additional Notes
