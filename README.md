@@ -14,7 +14,8 @@ Clone or download the project repository to your local machine.
 2. Install the required libraries:
 ````pip install -r requirements.txt````
 
-3. Create .env file
+3. Create .env file and add your ollama url inside the file:
+    ````LLM_API="your ollama url"````
 
 4. Run the main script:
 ````streamlit run main.py````
