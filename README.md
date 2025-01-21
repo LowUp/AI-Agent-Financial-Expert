@@ -3,7 +3,6 @@ This project aims to create an AI-powered financial advisor that can help users 
 
 ## Functionality
 The advisor can:
-
 - Process user-uploaded CSV files containing financial data.
 - Analyze the data and provide insights and recommendations.
 - Respond to user questions in a conversational manner.
